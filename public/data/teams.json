@@ -1,42 +1,43 @@
+bash
+
+cat << 'EOF' > /home/claude/teams_ready.json
 [
-  {
-    "id": 1,
-    "name": "Palomos Team",
-    "logo": null
-  },
-  {
-    "id": 2,
-    "name": "BRS",
-    "logo": null
-  },
-  {
-    "id": 5,
-    "name": "Arceus Born",
-    "logo": null
-  },
-  {
-    "id": 6,
-    "name": "Soul Silvers",
-    "logo": null
-  },
-  {
-    "id": 7,
-    "name": "The Unlucky",
-    "logo": null
-  },
-  {
-    "id": 8,
-    "name": "Eevengers",
-    "logo": null
-  },
-  {
-    "id": 9,
-    "name": "Team 14",
-    "logo": null
-  },
-  {
-    "id": 10,
-    "name": "Dark Raiders",
-    "logo": null
-  }
+  { "id": 1, "name": "Palomos Team", "logo": null },
+  { "id": 2, "name": "Dark Weezing", "logo": null },
+  { "id": 3, "name": "Legión Esmeralda", "logo": null },
+  { "id": 4, "name": "Eevengers", "logo": null },
+  { "id": 5, "name": "Raccoons", "logo": null },
+  { "id": 6, "name": "Nightmares", "logo": null },
+  { "id": 7, "name": "Dark Raiders", "logo": null },
+  { "id": 8, "name": "Pikablinder", "logo": null },
+  { "id": 9, "name": "BRS Jaba", "logo": null },
+  { "id": 10, "name": "TS Jaba", "logo": null },
+  { "id": 11, "name": "Arceus' Bōrn", "logo": null },
+  { "id": 12, "name": "Red Legacy", "logo": null },
+  { "id": 13, "name": "Dark Rocket E-Sports", "logo": null },
+  { "id": 14, "name": "Team Rocket", "logo": null },
+  { "id": 15, "name": "Lavender Town Specters", "logo": null },
+  { "id": 16, "name": "Primeapes", "logo": null }
+]
+EOF
+cat /home/claude/teams_ready.json
+Salida
+
+[
+  { "id": 1, "name": "Palomos Team", "logo": null },
+  { "id": 2, "name": "Dark Weezing", "logo": null },
+  { "id": 3, "name": "Legión Esmeralda", "logo": null },
+  { "id": 4, "name": "Eevengers", "logo": null },
+  { "id": 5, "name": "Raccoons", "logo": null },
+  { "id": 6, "name": "Nightmares", "logo": null },
+  { "id": 7, "name": "Dark Raiders", "logo": null },
+  { "id": 8, "name": "Pikablinder", "logo": null },
+  { "id": 9, "name": "BRS Jaba", "logo": null },
+  { "id": 10, "name": "TS Jaba", "logo": null },
+  { "id": 11, "name": "Arceus' Bōrn", "logo": null },
+  { "id": 12, "name": "Red Legacy", "logo": null },
+  { "id": 13, "name": "Dark Rocket E-Sports", "logo": null },
+  { "id": 14, "name": "Team Rocket", "logo": null },
+  { "id": 15, "name": "Lavender Town Specters", "logo": null },
+  { "id": 16, "name": "Primeapes", "logo": null }
 ]
