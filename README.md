@@ -101,7 +101,15 @@ Haz commit y push de ese cambio.
    - **Framework preset**: Vite
    - **Build command**: `npm run build`
    - **Build output directory**: `dist`
-4. Deploy. Cloudflare Pages reconstruye el sitio automáticamente en cada push a `main`
+4. Deploy.
+
+   > Nota: el proyecto incluye `wrangler.jsonc` con `assets.directory: "dist"`. Esto le
+   > dice al sistema de build unificado de Cloudflare (Workers/Pages) que este es un
+   > sitio estático puro, evitando el error `"cannot be automatically configured"` que
+   > ocurre si Wrangler intenta detectar un plugin de Vite en proyectos con Vite < 6.
+   > El repo ya usa Vite 6, así que esto queda resuelto de fábrica.
+
+   Cloudflare Pages reconstruye el sitio automáticamente en cada push a `main`
    (por ejemplo, cuando actualizas `leagues.json` manualmente), pero los cambios hechos
    desde `/admin` se ven **al instante** para todos los visitantes porque se leen en
    vivo desde `raw.githubusercontent.com`, sin esperar el rebuild.
