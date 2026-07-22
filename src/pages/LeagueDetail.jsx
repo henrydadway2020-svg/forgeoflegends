@@ -4,9 +4,20 @@ import MatchCard from '../components/MatchCard'
 
 export default function LeagueDetail() {
   const { id } = useParams()
-  const { leagues, matches, loading } = useData()
+  const { leagues, matches, teams, loading } = useData()
   const league = leagues.find((l) => String(l.id) === id)
-  const leagueMatches = matches.filter((m) => String(m.date) === id)
+
+  const teamsById = new Map(teams.map((t) => [t.id, t]))
+  const teamName = (tid) => teamsById.get(tid)?.name || '???'
+
+  const leagueMatches = matches
+    .filter((m) => String(m.date) === id)
+    .map((m) => ({
+      teamA: teamName(m.teamAId),
+      teamB: teamName(m.teamBId),
+      winner: m.winnerId ? teamName(m.winnerId) : null,
+      score: m.score,
+    }))
 
   if (loading) return <div className="container" style={{ padding: 40 }}>Cargando…</div>
   if (!league) {
