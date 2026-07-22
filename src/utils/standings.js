@@ -1,17 +1,15 @@
 const POINTS_PER_WIN = 3
 
-function parseScoreDiff(score, winner, teamA, teamB) {
-  // score viene como "3-1". Se interpreta como marcador del ganador vs perdedor.
+function parseScoreDiff(score) {
   if (!score || !score.includes('-')) return 0
   const [a, b] = score.split('-').map((n) => parseInt(n, 10) || 0)
-  const diff = Math.abs(a - b)
-  return diff
+  return Math.abs(a - b)
 }
 
 export function computeStandings(teams, matches) {
   const table = new Map()
   for (const team of teams) {
-    table.set(team.name, {
+    table.set(team.id, {
       id: team.id,
       name: team.name,
       logo: team.logo || null,
@@ -24,22 +22,22 @@ export function computeStandings(teams, matches) {
   }
 
   for (const match of matches) {
-    if (!match.winner) continue // partido aún sin resultado registrado
-    const { teamA, teamB, winner, score } = match
-    const loser = winner === teamA ? teamB : teamA
-    const diff = parseScoreDiff(score, winner, teamA, teamB)
+    if (!match.winnerId) continue // partido aún sin resultado
+    const { teamAId, teamBId, winnerId, score } = match
+    const loserId = winnerId === teamAId ? teamBId : teamAId
+    const diff = parseScoreDiff(score)
 
-    if (table.has(teamA)) table.get(teamA).played += 1
-    if (table.has(teamB)) table.get(teamB).played += 1
+    if (table.has(teamAId)) table.get(teamAId).played += 1
+    if (table.has(teamBId)) table.get(teamBId).played += 1
 
-    if (table.has(winner)) {
-      const row = table.get(winner)
+    if (table.has(winnerId)) {
+      const row = table.get(winnerId)
       row.wins += 1
       row.points += POINTS_PER_WIN
       row.diff += diff
     }
-    if (table.has(loser)) {
-      const row = table.get(loser)
+    if (table.has(loserId)) {
+      const row = table.get(loserId)
       row.losses += 1
       row.diff -= diff
     }
