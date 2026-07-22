@@ -1,11 +1,11 @@
 // Generador de versus mediante el "método del círculo" (round-robin clásico).
-// Con 16 equipos y 15 fechas, este método produce exactamente 15 rondas en las
-// que cada equipo enfrenta a todos los demás una única vez: cero repeticiones
-// posibles mientras el torneo esté completo. Si aún faltan equipos por cargar,
-// se usan "BYE" (descanso) para no romper el algoritmo.
+// IMPORTANTE: el roster se ordena por `id` antes de armar el calendario, así
+// el orden en que agregaste/renombraste equipos en /admin nunca cambia el
+// cronograma. Los partidos se guardan por teamAId/teamBId (nunca por nombre),
+// así que renombrar un equipo después no rompe nada.
 
 export function buildRoundRobinSchedule(teamList) {
-  const teams = [...teamList]
+  const teams = [...teamList].sort((a, b) => a.id - b.id)
   if (teams.length % 2 !== 0) teams.push({ id: 'BYE', name: 'BYE', bye: true })
 
   const n = teams.length
@@ -24,8 +24,8 @@ export function buildRoundRobinSchedule(teamList) {
       if (a.bye || b.bye) continue
       pairs.push(
         r % 2 === 0
-          ? { teamA: a, teamB: b }
-          : { teamA: b, teamB: a } // alterna local/visitante para variar el orden visual
+          ? { teamAId: a.id, teamBId: b.id }
+          : { teamAId: b.id, teamBId: a.id }
       )
     }
     schedule.push(pairs)
@@ -35,8 +35,9 @@ export function buildRoundRobinSchedule(teamList) {
 }
 
 // Genera (o recupera) el versus de una fecha específica a partir de la lista
-// completa de equipos. Determinista: la misma lista de equipos siempre produce
-// el mismo emparejamiento para una fecha dada.
+// completa de equipos. Determinista: la MISMA lista de ids de equipos siempre
+// produce el mismo emparejamiento para una fecha dada, sin importar el orden
+// en que fueron creados o el orden del array en memoria.
 export function generateVersusForFecha(teams, fechaNumber) {
   if (!teams || teams.length < 2) return []
   const schedule = buildRoundRobinSchedule(teams)
@@ -45,11 +46,11 @@ export function generateVersusForFecha(teams, fechaNumber) {
   return schedule[idx]
 }
 
-// Verifica si dos equipos ya se enfrentaron antes (útil para validar manualmente).
-export function haveTeamsPlayed(matches, teamAName, teamBName) {
+// Verifica si dos equipos (por id) ya se enfrentaron antes.
+export function haveTeamsPlayed(matches, teamAId, teamBId) {
   return matches.some(
     (m) =>
-      (m.teamA === teamAName && m.teamB === teamBName) ||
-      (m.teamA === teamBName && m.teamB === teamAName)
+      (m.teamAId === teamAId && m.teamBId === teamBId) ||
+      (m.teamAId === teamBId && m.teamBId === teamAId)
   )
 }
