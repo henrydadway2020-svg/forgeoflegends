@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "date": 1,
+    "teamAId": 1,
+    "teamBId": 16,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 2,
+    "teamBId": 15,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 3,
+    "teamBId": 14,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 4,
+    "teamBId": 13,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 5,
+    "teamBId": 12,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 6,
+    "teamBId": 11,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 7,
+    "teamBId": 10,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 1,
+    "teamAId": 8,
+    "teamBId": 9,
+    "winnerId": null,
+    "score": null
+  }
+]
