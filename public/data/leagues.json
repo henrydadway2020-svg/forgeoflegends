@@ -134,4 +134,22 @@
     "lastChampion": "Squirtle Squad",
     "status": "blocked"
   }
-]
+,
+  {
+    "id": 16,
+    "name": "Elite Champions",
+    "format": "Libre",
+    "rules": ["BO1 por jugador hasta llegar a 7 puntos", "Energías y Pokémon libres"],
+    "note": "",
+    "lastChampion": "",
+    "status": "blocked"
+  },
+  {
+    "id": 17,
+    "name": "Premier Ball",
+    "format": "5 vs 5",
+    "rules": ["No repetir energía", "No repetir Pokémon", "No repetir jugador"],
+    "note": "",
+    "lastChampion": "",
+    "status": "blocked"
+  }
