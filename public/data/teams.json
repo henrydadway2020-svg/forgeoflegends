@@ -1,88 +1,20 @@
 [
-  {
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null
-  },
-  {
-    "id": 2,
-    "name": "DARK WEEZING",
-    "logo": null
-  },
-  {
-    "id": 3,
-    "name": "LEGION ESMERALDA",
-    "logo": null
-  },
-  {
-    "id": 4,
-    "name": "EEVENGERS",
-    "logo": null
-  },
-  {
-    "id": 5,
-    "name": "Raccoons",
-    "logo": null
-  },
-  {
-    "id": 6,
-    "name": "Nightmares",
-    "logo": null
-  },
-  {
-    "id": 7,
-    "name": "dark Raiders",
-    "logo": null
-  },
-  {
-    "id": 8,
-    "name": "BRS",
-    "logo": null
-  },
-  {
-    "id": 9,
-    "name": "TOTODILE SQUAD",
-    "logo": null
-  },
-  {
-    "id": 10,
-    "name": "ARCEUS BORN",
-    "logo": null
-  },
-  {
-    "id": 11,
-    "name": "RED LEGACY",
-    "logo": null
-  },
-  {
-    "id": 12,
-    "name": "GST",
-    "logo": null
-  },
-  {
-    "id": 13,
-    "name": "⁠pikatsukis",
-    "logo": null
-  },
-  {
-    "id": 14,
-    "name": "DORAGON CRO",
-    "logo": null
-  },
-  {
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
-    "logo": null
-  },
-  {
-    "id": 16,
-    "name": "Pikablinder",
-    "logo": null
-  }
-{ "id": 17,
-  "name": "Palomos Team",
-  "logo": null },
-  { "id": 18,
-    "name": "Los Primates",
-    "logo": null }
+  { "id": 1, "name": "Eufóricos Word", "logo": null },
+  { "id": 2, "name": "DARK WEEZING", "logo": null },
+  { "id": 3, "name": "LEGION ESMERALDA", "logo": null },
+  { "id": 4, "name": "EEVENGERS", "logo": null },
+  { "id": 5, "name": "Raccoons", "logo": null },
+  { "id": 6, "name": "Nightmares", "logo": null },
+  { "id": 7, "name": "dark Raiders", "logo": null },
+  { "id": 8, "name": "BRS", "logo": null },
+  { "id": 9, "name": "TOTODILE SQUAD", "logo": null },
+  { "id": 10, "name": "ARCEUS BORN", "logo": null },
+  { "id": 11, "name": "RED LEGACY", "logo": null },
+  { "id": 12, "name": "GST", "logo": null },
+  { "id": 13, "name": "pikatsukis", "logo": null },
+  { "id": 14, "name": "DORAGON CRO", "logo": null },
+  { "id": 15, "name": "SQUIRTLE SQUAD", "logo": null },
+  { "id": 16, "name": "Pikablinder", "logo": null },
+  { "id": 17, "name": "Palomos Team", "logo": null },
+  { "id": 18, "name": "Los Primates", "logo": null }
 ]
