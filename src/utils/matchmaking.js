@@ -1,11 +1,26 @@
 // Generador de versus mediante el "método del círculo" (round-robin clásico).
-// IMPORTANTE: el roster se ordena por `id` antes de armar el calendario, así
-// el orden en que agregaste/renombraste equipos en /admin nunca cambia el
-// cronograma. Los partidos se guardan por teamAId/teamBId (nunca por nombre),
-// así que renombrar un equipo después no rompe nada.
+//
+// SEASON_CIRCLE_ORDER fija el orden de posiciones para esta temporada de 18
+// equipos. Los primeros 16 puestos reproducen EXACTAMENTE el versus ya jugado
+// en la Fecha 1 (antes de sumar a Palomos Team #17 y Los Primates #18), y a
+// partir de ahí la rotación estándar del método del círculo sigue siendo
+// matemáticamente válida: garantiza que las 17 fechas cubran todos los cruces
+// posibles entre los 18 equipos exactamente una vez, sin repetir ninguno.
+const SEASON_CIRCLE_ORDER = [1, 2, 3, 4, 5, 6, 7, 8, 17, 18, 9, 10, 11, 12, 13, 14, 15, 16]
 
 export function buildRoundRobinSchedule(teamList) {
-  const teams = [...teamList].sort((a, b) => a.id - b.id)
+  const byId = new Map(teamList.map((t) => [t.id, t]))
+  // Usa el orden fijo de temporada para los ids conocidos; cualquier equipo
+  // nuevo que no esté en SEASON_CIRCLE_ORDER se agrega al final por id
+  // ascendente, para que la liga no se rompa si en el futuro suman más.
+  const orderedIds = [
+    ...SEASON_CIRCLE_ORDER.filter((id) => byId.has(id)),
+    ...teamList
+      .map((t) => t.id)
+      .filter((id) => !SEASON_CIRCLE_ORDER.includes(id))
+      .sort((a, b) => a - b),
+  ]
+  const teams = orderedIds.map((id) => byId.get(id))
   if (teams.length % 2 !== 0) teams.push({ id: 'BYE', name: 'BYE', bye: true })
 
   const n = teams.length
@@ -31,13 +46,9 @@ export function buildRoundRobinSchedule(teamList) {
     schedule.push(pairs)
     rotating = [rotating[rotating.length - 1], ...rotating.slice(0, rotating.length - 1)]
   }
-  return schedule // schedule[0] => Fecha 1, schedule[1] => Fecha 2, ...
+  return schedule
 }
 
-// Genera (o recupera) el versus de una fecha específica a partir de la lista
-// completa de equipos. Determinista: la MISMA lista de ids de equipos siempre
-// produce el mismo emparejamiento para una fecha dada, sin importar el orden
-// en que fueron creados o el orden del array en memoria.
 export function generateVersusForFecha(teams, fechaNumber) {
   if (!teams || teams.length < 2) return []
   const schedule = buildRoundRobinSchedule(teams)
@@ -46,7 +57,6 @@ export function generateVersusForFecha(teams, fechaNumber) {
   return schedule[idx]
 }
 
-// Verifica si dos equipos (por id) ya se enfrentaron antes.
 export function haveTeamsPlayed(matches, teamAId, teamBId) {
   return matches.some(
     (m) =>
