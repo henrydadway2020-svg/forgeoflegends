@@ -1,175 +1,27 @@
 [
-  {
-    "date": 1,
-    "teamAId": 1,
-    "teamBId": 16,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 2,
-    "teamBId": 15,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 3,
-    "teamBId": 14,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 4,
-    "teamBId": 13,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 5,
-    "teamBId": 12,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 6,
-    "teamBId": 11,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 7,
-    "teamBId": 10,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 1,
-    "teamAId": 8,
-    "teamBId": 9,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 15,
-    "teamBId": 1,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 14,
-    "teamBId": 16,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 13,
-    "teamBId": 2,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 12,
-    "teamBId": 3,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 11,
-    "teamBId": 4,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 10,
-    "teamBId": 5,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 9,
-    "teamBId": 6,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 2,
-    "teamAId": 8,
-    "teamBId": 7,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 1,
-    "teamBId": 14,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 15,
-    "teamBId": 13,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 16,
-    "teamBId": 12,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 2,
-    "teamBId": 11,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 3,
-    "teamBId": 10,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 4,
-    "teamBId": 9,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 5,
-    "teamBId": 8,
-    "winnerId": null,
-    "score": null
-  },
-  {
-    "date": 3,
-    "teamAId": 6,
-    "teamBId": 7,
-    "winnerId": null,
-    "score": null
-  }
-{ "date": 1,
-  "teamAId": 17,
-  "teamBId": 18,
-  "winnerId": null,
-  "score": null }
+  { "date": 1, "teamAId": 1, "teamBId": 16, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 2, "teamBId": 15, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 3, "teamBId": 14, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 4, "teamBId": 13, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 5, "teamBId": 12, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 6, "teamBId": 11, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 7, "teamBId": 10, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 8, "teamBId": 9, "winnerId": null, "score": null },
+  { "date": 1, "teamAId": 17, "teamBId": 18, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 15, "teamBId": 1, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 14, "teamBId": 16, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 13, "teamBId": 2, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 12, "teamBId": 3, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 11, "teamBId": 4, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 10, "teamBId": 5, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 9, "teamBId": 6, "winnerId": null, "score": null },
+  { "date": 2, "teamAId": 8, "teamBId": 7, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 1, "teamBId": 14, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 15, "teamBId": 13, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 16, "teamBId": 12, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 2, "teamBId": 11, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 3, "teamBId": 10, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 4, "teamBId": 9, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 5, "teamBId": 8, "winnerId": null, "score": null },
+  { "date": 3, "teamAId": 6, "teamBId": 7, "winnerId": null, "score": null }
 ]
