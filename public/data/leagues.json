@@ -133,8 +133,7 @@
     "note": "",
     "lastChampion": "Squirtle Squad",
     "status": "blocked"
-  }
-,
+  },
   {
     "id": 16,
     "name": "Elite Champions",
@@ -153,3 +152,4 @@
     "lastChampion": "",
     "status": "blocked"
   }
+]
