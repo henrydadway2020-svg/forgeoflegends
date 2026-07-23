@@ -3,7 +3,7 @@ import { useData } from '../../context/DataContext'
 import { generateVersusForFecha } from '../../utils/matchmaking'
 
 export default function AdminMatches() {
-  const { teams, leagues, matches, saveMatches } = useData()
+  const { teams, leagues, matches, saveMatches, config } = useData()
   const activeLeague = leagues.find((l) => l.status === 'active') || leagues[0]
   const [fechaId, setFechaId] = useState(activeLeague?.id || 1)
   const [busy, setBusy] = useState(false)
@@ -17,7 +17,7 @@ export default function AdminMatches() {
     .map((m, idx) => ({ ...m, _idx: idx }))
     .filter((m) => String(m.date) === String(fechaId))
 
-  const rosterComplete = teams.length === 16
+  const rosterComplete = teams.length === (config?.totalTeams || 18)
   const canGenerate = rosterComplete && fechaMatches.length === 0
 
   async function handleGenerate() {
