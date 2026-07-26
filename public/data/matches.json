@@ -52,8 +52,8 @@
     "date": 1,
     "teamAId": 8,
     "teamBId": 9,
-    "winnerId": null,
-    "score": null
+    "winnerId": 8,
+    "score": "3-2"
   },
   {
     "date": 1,
