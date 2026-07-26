@@ -56,6 +56,17 @@
   },
   {
     "position": 6,
+    "id": 8,
+    "name": "BRS",
+    "logo": null,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "points": 3,
+    "diff": 1
+  },
+  {
+    "position": 7,
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
@@ -66,7 +77,7 @@
     "diff": 1
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
@@ -77,29 +88,7 @@
     "diff": 0
   },
   {
-    "position": 8,
-    "id": 8,
-    "name": "BRS",
-    "logo": null,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "points": 0,
-    "diff": 0
-  },
-  {
     "position": 9,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
-    "logo": null,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "points": 0,
-    "diff": 0
-  },
-  {
-    "position": 10,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -110,7 +99,7 @@
     "diff": 0
   },
   {
-    "position": 11,
+    "position": 10,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -121,7 +110,7 @@
     "diff": 0
   },
   {
-    "position": 12,
+    "position": 11,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -132,9 +121,20 @@
     "diff": 0
   },
   {
-    "position": 13,
+    "position": 12,
     "id": 6,
     "name": "Nightmares",
+    "logo": null,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "points": 0,
+    "diff": -1
+  },
+  {
+    "position": 13,
+    "id": 9,
+    "name": "TOTODILE SQUAD",
     "logo": null,
     "played": 1,
     "wins": 0,
