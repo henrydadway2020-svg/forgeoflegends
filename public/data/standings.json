@@ -89,28 +89,17 @@
   },
   {
     "position": 9,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "points": 0,
-    "diff": 0
-  },
-  {
-    "position": 10,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
-    "played": 0,
-    "wins": 0,
+    "played": 1,
+    "wins": 1,
     "losses": 0,
-    "points": 0,
-    "diff": 0
+    "points": 3,
+    "diff": 1
   },
   {
-    "position": 11,
+    "position": 10,
     "id": 6,
     "name": "Nightmares",
     "logo": null,
@@ -121,7 +110,7 @@
     "diff": -1
   },
   {
-    "position": 12,
+    "position": 11,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
@@ -132,7 +121,7 @@
     "diff": -1
   },
   {
-    "position": 13,
+    "position": 12,
     "id": 10,
     "name": "ARCEUS BORN",
     "logo": null,
@@ -143,9 +132,20 @@
     "diff": -1
   },
   {
-    "position": 14,
+    "position": 13,
     "id": 16,
     "name": "Pikablinder",
+    "logo": null,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "points": 0,
+    "diff": -1
+  },
+  {
+    "position": 14,
+    "id": 17,
+    "name": "Palomos Team",
     "logo": null,
     "played": 1,
     "wins": 0,
