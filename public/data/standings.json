@@ -23,6 +23,17 @@
   },
   {
     "position": 3,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "points": 3,
+    "diff": 1
+  },
+  {
+    "position": 4,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 1
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
@@ -42,17 +53,6 @@
     "losses": 0,
     "points": 3,
     "diff": 1
-  },
-  {
-    "position": 5,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "points": 0,
-    "diff": 0
   },
   {
     "position": 6,
@@ -122,17 +122,6 @@
   },
   {
     "position": 12,
-    "id": 16,
-    "name": "Pikablinder",
-    "logo": null,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "points": 0,
-    "diff": 0
-  },
-  {
-    "position": 13,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -143,7 +132,7 @@
     "diff": 0
   },
   {
-    "position": 14,
+    "position": 13,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -154,7 +143,7 @@
     "diff": 0
   },
   {
-    "position": 15,
+    "position": 14,
     "id": 6,
     "name": "Nightmares",
     "logo": null,
@@ -165,9 +154,20 @@
     "diff": -1
   },
   {
-    "position": 16,
+    "position": 15,
     "id": 10,
     "name": "ARCEUS BORN",
+    "logo": null,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "points": 0,
+    "diff": -1
+  },
+  {
+    "position": 16,
+    "id": 16,
+    "name": "Pikablinder",
     "logo": null,
     "played": 1,
     "wins": 0,
