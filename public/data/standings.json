@@ -1,8 +1,8 @@
 [
   {
     "position": 1,
-    "id": 18,
-    "name": "Los Primates",
+    "id": 2,
+    "name": "DARK WEEZING",
     "logo": null,
     "played": 2,
     "wins": 2,
@@ -12,14 +12,14 @@
   },
   {
     "position": 2,
-    "id": 2,
-    "name": "DARK WEEZING",
+    "id": 18,
+    "name": "Los Primates",
     "logo": null,
-    "played": 1,
-    "wins": 1,
+    "played": 2,
+    "wins": 2,
     "losses": 0,
-    "points": 3,
-    "diff": 3
+    "points": 6,
+    "diff": 4
   },
   {
     "position": 3,
@@ -144,17 +144,6 @@
   },
   {
     "position": 14,
-    "id": 13,
-    "name": "pikatsukis",
-    "logo": null,
-    "played": 1,
-    "wins": 0,
-    "losses": 1,
-    "points": 0,
-    "diff": -2
-  },
-  {
-    "position": 15,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -165,13 +154,24 @@
     "diff": -3
   },
   {
-    "position": 16,
+    "position": 15,
     "id": 12,
     "name": "GST",
     "logo": null,
     "played": 1,
     "wins": 0,
     "losses": 1,
+    "points": 0,
+    "diff": -3
+  },
+  {
+    "position": 16,
+    "id": 13,
+    "name": "pikatsukis",
+    "logo": null,
+    "played": 2,
+    "wins": 0,
+    "losses": 2,
     "points": 0,
     "diff": -3
   },
