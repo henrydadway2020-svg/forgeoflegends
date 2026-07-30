@@ -23,6 +23,17 @@
   },
   {
     "position": 3,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 2,
+    "wins": 2,
+    "losses": 0,
+    "points": 6,
+    "diff": 3
+  },
+  {
+    "position": 4,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 3
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 3
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 4,
     "name": "EEVENGERS",
     "logo": null,
@@ -53,17 +64,6 @@
     "losses": 0,
     "points": 3,
     "diff": 2
-  },
-  {
-    "position": 6,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 1,
-    "wins": 1,
-    "losses": 0,
-    "points": 3,
-    "diff": 1
   },
   {
     "position": 7,
@@ -177,8 +177,8 @@
   },
   {
     "position": 17,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
+    "id": 17,
+    "name": "Palomos Team",
     "logo": null,
     "played": 1,
     "wins": 0,
@@ -188,13 +188,13 @@
   },
   {
     "position": 18,
-    "id": 17,
-    "name": "Palomos Team",
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
     "logo": null,
-    "played": 1,
+    "played": 2,
     "wins": 0,
-    "losses": 1,
+    "losses": 2,
     "points": 0,
-    "diff": -3
+    "diff": -5
   }
 ]
