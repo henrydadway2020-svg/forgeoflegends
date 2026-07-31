@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "id": 8,
+    "name": "BRS",
+    "logo": null,
+    "played": 2,
+    "wins": 2,
+    "losses": 0,
+    "points": 6,
+    "diff": 3
+  },
+  {
+    "position": 6,
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 2
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -66,24 +77,13 @@
     "diff": 2
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 4,
     "name": "EEVENGERS",
     "logo": null,
     "played": 2,
     "wins": 1,
     "losses": 1,
-    "points": 3,
-    "diff": 1
-  },
-  {
-    "position": 8,
-    "id": 8,
-    "name": "BRS",
-    "logo": null,
-    "played": 1,
-    "wins": 1,
-    "losses": 0,
     "points": 3,
     "diff": 1
   },
@@ -155,17 +155,6 @@
   },
   {
     "position": 15,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 1,
-    "wins": 0,
-    "losses": 1,
-    "points": 0,
-    "diff": -3
-  },
-  {
-    "position": 16,
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
@@ -176,9 +165,20 @@
     "diff": -4
   },
   {
-    "position": 17,
+    "position": 16,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
+    "logo": null,
+    "played": 2,
+    "wins": 0,
+    "losses": 2,
+    "points": 0,
+    "diff": -5
+  },
+  {
+    "position": 17,
+    "id": 17,
+    "name": "Palomos Team",
     "logo": null,
     "played": 2,
     "wins": 0,
