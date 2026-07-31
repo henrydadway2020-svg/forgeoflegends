@@ -11,7 +11,7 @@
     ],
     "note": "",
     "lastChampion": "Palomos Team",
-    "status": "active"
+    "status": "blocked"
   },
   {
     "id": 2,
@@ -20,7 +20,7 @@
     "rules": [],
     "note": "Liga basada en temática de juego macabro.",
     "lastChampion": "BRS",
-    "status": "unlocked"
+    "status": "active"
   },
   {
     "id": 3,
