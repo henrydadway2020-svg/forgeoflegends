@@ -111,17 +111,6 @@
   },
   {
     "position": 11,
-    "id": 10,
-    "name": "ARCEUS BORN",
-    "logo": null,
-    "played": 2,
-    "wins": 1,
-    "losses": 1,
-    "points": 3,
-    "diff": 0
-  },
-  {
-    "position": 12,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -132,7 +121,29 @@
     "diff": 0
   },
   {
+    "position": 12,
+    "id": 10,
+    "name": "ARCEUS BORN",
+    "logo": null,
+    "played": 3,
+    "wins": 1,
+    "losses": 2,
+    "points": 3,
+    "diff": -2
+  },
+  {
     "position": 13,
+    "id": 3,
+    "name": "LEGION ESMERALDA",
+    "logo": null,
+    "played": 3,
+    "wins": 1,
+    "losses": 2,
+    "points": 3,
+    "diff": -4
+  },
+  {
+    "position": 14,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
@@ -143,7 +154,7 @@
     "diff": -2
   },
   {
-    "position": 14,
+    "position": 15,
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
@@ -154,7 +165,7 @@
     "diff": -3
   },
   {
-    "position": 15,
+    "position": 16,
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
@@ -165,7 +176,7 @@
     "diff": -4
   },
   {
-    "position": 16,
+    "position": 17,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -176,7 +187,7 @@
     "diff": -5
   },
   {
-    "position": 17,
+    "position": 18,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -185,16 +196,5 @@
     "losses": 2,
     "points": 0,
     "diff": -5
-  },
-  {
-    "position": 18,
-    "id": 3,
-    "name": "LEGION ESMERALDA",
-    "logo": null,
-    "played": 2,
-    "wins": 0,
-    "losses": 2,
-    "points": 0,
-    "diff": -6
   }
 ]
