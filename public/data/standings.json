@@ -1,6 +1,17 @@
 [
   {
     "position": 1,
+    "id": 11,
+    "name": "RED LEGACY",
+    "logo": null,
+    "played": 3,
+    "wins": 3,
+    "losses": 0,
+    "points": 9,
+    "diff": 4
+  },
+  {
+    "position": 2,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -9,17 +20,6 @@
     "losses": 0,
     "points": 6,
     "diff": 6
-  },
-  {
-    "position": 2,
-    "id": 2,
-    "name": "DARK WEEZING",
-    "logo": null,
-    "played": 2,
-    "wins": 2,
-    "losses": 0,
-    "points": 6,
-    "diff": 4
   },
   {
     "position": 3,
@@ -56,8 +56,8 @@
   },
   {
     "position": 6,
-    "id": 4,
-    "name": "EEVENGERS",
+    "id": 2,
+    "name": "DARK WEEZING",
     "logo": null,
     "played": 3,
     "wins": 2,
@@ -67,12 +67,12 @@
   },
   {
     "position": 7,
-    "id": 11,
-    "name": "RED LEGACY",
+    "id": 4,
+    "name": "EEVENGERS",
     "logo": null,
-    "played": 2,
+    "played": 3,
     "wins": 2,
-    "losses": 0,
+    "losses": 1,
     "points": 6,
     "diff": 2
   },
