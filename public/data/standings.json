@@ -23,12 +23,12 @@
   },
   {
     "position": 3,
-    "id": 18,
-    "name": "Los Primates",
+    "id": 5,
+    "name": "Raccoons",
     "logo": null,
-    "played": 2,
+    "played": 3,
     "wins": 2,
-    "losses": 0,
+    "losses": 1,
     "points": 6,
     "diff": 4
   },
@@ -78,6 +78,17 @@
   },
   {
     "position": 8,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 3,
+    "wins": 2,
+    "losses": 1,
+    "points": 6,
+    "diff": 2
+  },
+  {
+    "position": 9,
     "id": 8,
     "name": "BRS",
     "logo": null,
@@ -86,17 +97,6 @@
     "losses": 1,
     "points": 6,
     "diff": 0
-  },
-  {
-    "position": 9,
-    "id": 5,
-    "name": "Raccoons",
-    "logo": null,
-    "played": 2,
-    "wins": 1,
-    "losses": 1,
-    "points": 3,
-    "diff": 2
   },
   {
     "position": 10,
