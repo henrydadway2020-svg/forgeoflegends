@@ -1,6 +1,17 @@
 [
   {
     "position": 1,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 3,
+    "wins": 3,
+    "losses": 0,
+    "points": 9,
+    "diff": 4
+  },
+  {
+    "position": 2,
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
@@ -11,18 +22,18 @@
     "diff": 4
   },
   {
-    "position": 2,
+    "position": 3,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
-    "played": 2,
+    "played": 3,
     "wins": 2,
-    "losses": 0,
+    "losses": 1,
     "points": 6,
-    "diff": 6
+    "diff": 5
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -31,17 +42,6 @@
     "losses": 1,
     "points": 6,
     "diff": 4
-  },
-  {
-    "position": 4,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 2,
-    "wins": 2,
-    "losses": 0,
-    "points": 6,
-    "diff": 3
   },
   {
     "position": 5,
