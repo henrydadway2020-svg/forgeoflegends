@@ -20,7 +20,7 @@
     "rules": [],
     "note": "Liga basada en temática de juego macabro.",
     "lastChampion": "BRS",
-    "status": "active"
+    "status": "blocked"
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     ],
     "note": "",
     "lastChampion": "Squirtle Squad",
-    "status": "blocked"
+    "status": "active"
   },
   {
     "id": 5,
