@@ -139,13 +139,13 @@
     "winnerId": 13,
     "score": "3-1"
   },
-  {
-    "date": 3,
-    "teamAId": 16,
-    "teamBId": 12,
-    "winnerId": 16,
-    "score": "1-3"
-  },
+ {
+  "date": 3,
+  "teamAId": 16,
+  "teamBId": 12,
+  "winnerId": 12,
+  "score": "3-1"
+},
   {
     "date": 3,
     "teamAId": 2,
