@@ -56,17 +56,6 @@
   },
   {
     "position": 6,
-    "id": 2,
-    "name": "DARK WEEZING",
-    "logo": null,
-    "played": 3,
-    "wins": 2,
-    "losses": 1,
-    "points": 6,
-    "diff": 2
-  },
-  {
-    "position": 7,
     "id": 4,
     "name": "EEVENGERS",
     "logo": null,
@@ -77,7 +66,7 @@
     "diff": 2
   },
   {
-    "position": 8,
+    "position": 7,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -88,7 +77,7 @@
     "diff": 2
   },
   {
-    "position": 9,
+    "position": 8,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -97,6 +86,17 @@
     "losses": 1,
     "points": 6,
     "diff": 2
+  },
+  {
+    "position": 9,
+    "id": 2,
+    "name": "DARK WEEZING",
+    "logo": null,
+    "played": 4,
+    "wins": 2,
+    "losses": 2,
+    "points": 6,
+    "diff": 1
   },
   {
     "position": 10,
@@ -133,6 +133,17 @@
   },
   {
     "position": 13,
+    "id": 9,
+    "name": "TOTODILE SQUAD",
+    "logo": null,
+    "played": 4,
+    "wins": 1,
+    "losses": 3,
+    "points": 3,
+    "diff": -2
+  },
+  {
+    "position": 14,
     "id": 10,
     "name": "ARCEUS BORN",
     "logo": null,
@@ -143,7 +154,7 @@
     "diff": -3
   },
   {
-    "position": 14,
+    "position": 15,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -154,7 +165,7 @@
     "diff": -4
   },
   {
-    "position": 15,
+    "position": 16,
     "id": 6,
     "name": "Nightmares",
     "logo": null,
@@ -165,7 +176,7 @@
     "diff": -4
   },
   {
-    "position": 16,
+    "position": 17,
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
@@ -174,17 +185,6 @@
     "losses": 3,
     "points": 3,
     "diff": -5
-  },
-  {
-    "position": 17,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
-    "logo": null,
-    "played": 3,
-    "wins": 0,
-    "losses": 3,
-    "points": 0,
-    "diff": -3
   },
   {
     "position": 18,
