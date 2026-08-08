@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 4,
+    "name": "EEVENGERS",
+    "logo": null,
+    "played": 4,
+    "wins": 3,
+    "losses": 1,
+    "points": 9,
+    "diff": 5
+  },
+  {
+    "position": 3,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 5
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 1,
     "name": "Eufóricos Word",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 3
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 5
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 4
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -64,17 +75,6 @@
     "losses": 1,
     "points": 6,
     "diff": 3
-  },
-  {
-    "position": 7,
-    "id": 4,
-    "name": "EEVENGERS",
-    "logo": null,
-    "played": 3,
-    "wins": 2,
-    "losses": 1,
-    "points": 6,
-    "diff": 2
   },
   {
     "position": 8,
@@ -122,17 +122,6 @@
   },
   {
     "position": 12,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 3,
-    "wins": 1,
-    "losses": 2,
-    "points": 3,
-    "diff": -1
-  },
-  {
-    "position": 13,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
@@ -143,7 +132,7 @@
     "diff": -2
   },
   {
-    "position": 14,
+    "position": 13,
     "id": 10,
     "name": "ARCEUS BORN",
     "logo": null,
@@ -154,13 +143,24 @@
     "diff": -3
   },
   {
-    "position": 15,
+    "position": 14,
     "id": 6,
     "name": "Nightmares",
     "logo": null,
     "played": 3,
     "wins": 1,
     "losses": 2,
+    "points": 3,
+    "diff": -4
+  },
+  {
+    "position": 15,
+    "id": 17,
+    "name": "Palomos Team",
+    "logo": null,
+    "played": 4,
+    "wins": 1,
+    "losses": 3,
     "points": 3,
     "diff": -4
   },
