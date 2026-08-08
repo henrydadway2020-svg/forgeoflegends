@@ -15,11 +15,11 @@
     "id": 1,
     "name": "Eufóricos Word",
     "logo": null,
-    "played": 3,
+    "played": 4,
     "wins": 3,
-    "losses": 0,
+    "losses": 1,
     "points": 9,
-    "diff": 4
+    "diff": 3
   },
   {
     "position": 3,
@@ -114,11 +114,11 @@
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
-    "played": 3,
-    "wins": 1,
+    "played": 4,
+    "wins": 2,
     "losses": 2,
-    "points": 3,
-    "diff": -1
+    "points": 6,
+    "diff": 0
   },
   {
     "position": 12,
