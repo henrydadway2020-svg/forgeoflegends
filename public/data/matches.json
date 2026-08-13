@@ -313,5 +313,68 @@
     "teamBId": 6,
     "winnerId": 5,
     "score": "3-2"
+  },
+  {
+    "date": 6,
+    "teamAId": 11,
+    "teamBId": 1,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 10,
+    "teamBId": 12,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 9,
+    "teamBId": 13,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 18,
+    "teamBId": 14,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 17,
+    "teamBId": 15,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 8,
+    "teamBId": 16,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 7,
+    "teamBId": 2,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 6,
+    "teamBId": 3,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 6,
+    "teamAId": 5,
+    "teamBId": 4,
+    "winnerId": null,
+    "score": null
   }
 ]
