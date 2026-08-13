@@ -262,14 +262,14 @@
     "date": 5,
     "teamAId": 13,
     "teamBId": 11,
-    "winnerId": null,
-    "score": null
+    "winnerId": 13,
+    "score": "3-2"
   },
   {
     "date": 5,
-    "teamAId": 15,
-    "teamBId": 9,
-    "winnerId": 15,
+    "teamAId": 14,
+    "teamBId": 10,
+    "winnerId": 14,
     "score": "4-0"
   },
   {
