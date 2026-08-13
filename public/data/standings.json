@@ -23,17 +23,6 @@
   },
   {
     "position": 3,
-    "id": 18,
-    "name": "Los Primates",
-    "logo": null,
-    "played": 4,
-    "wins": 3,
-    "losses": 1,
-    "points": 9,
-    "diff": 5
-  },
-  {
-    "position": 4,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -44,13 +33,24 @@
     "diff": 4
   },
   {
-    "position": 5,
+    "position": 4,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
     "played": 4,
     "wins": 3,
     "losses": 1,
+    "points": 9,
+    "diff": 4
+  },
+  {
+    "position": 5,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 5,
+    "wins": 3,
+    "losses": 2,
     "points": 9,
     "diff": 4
   },
@@ -122,6 +122,17 @@
   },
   {
     "position": 12,
+    "id": 16,
+    "name": "Pikablinder",
+    "logo": null,
+    "played": 5,
+    "wins": 2,
+    "losses": 3,
+    "points": 6,
+    "diff": -4
+  },
+  {
+    "position": 13,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
@@ -132,7 +143,7 @@
     "diff": -2
   },
   {
-    "position": 13,
+    "position": 14,
     "id": 10,
     "name": "ARCEUS BORN",
     "logo": null,
@@ -143,7 +154,7 @@
     "diff": -3
   },
   {
-    "position": 14,
+    "position": 15,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -152,17 +163,6 @@
     "losses": 3,
     "points": 3,
     "diff": -4
-  },
-  {
-    "position": 15,
-    "id": 16,
-    "name": "Pikablinder",
-    "logo": null,
-    "played": 4,
-    "wins": 1,
-    "losses": 3,
-    "points": 3,
-    "diff": -5
   },
   {
     "position": 16,
