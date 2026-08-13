@@ -311,7 +311,7 @@
     "date": 5,
     "teamAId": 5,
     "teamBId": 6,
-    "winnerId": null,
-    "score": null
+    "winnerId": 5,
+    "score": "3-2"
   }
 ]
