@@ -360,8 +360,8 @@
     "date": 6,
     "teamAId": 7,
     "teamBId": 2,
-    "winnerId": null,
-    "score": null
+    "winnerId": 2,
+    "score": "3-2"
   },
   {
     "date": 6,
