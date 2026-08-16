@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 6,
+    "wins": 4,
+    "losses": 2,
+    "points": 12,
+    "diff": 7
+  },
+  {
+    "position": 3,
     "id": 4,
     "name": "EEVENGERS",
     "logo": null,
@@ -20,17 +31,6 @@
     "losses": 1,
     "points": 12,
     "diff": 6
-  },
-  {
-    "position": 3,
-    "id": 11,
-    "name": "RED LEGACY",
-    "logo": null,
-    "played": 5,
-    "wins": 4,
-    "losses": 1,
-    "points": 12,
-    "diff": 4
   },
   {
     "position": 4,
@@ -56,6 +56,17 @@
   },
   {
     "position": 6,
+    "id": 11,
+    "name": "RED LEGACY",
+    "logo": null,
+    "played": 6,
+    "wins": 4,
+    "losses": 2,
+    "points": 12,
+    "diff": -1
+  },
+  {
+    "position": 7,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -66,7 +77,7 @@
     "diff": 8
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -77,7 +88,7 @@
     "diff": 4
   },
   {
-    "position": 8,
+    "position": 9,
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
@@ -88,7 +99,7 @@
     "diff": 3
   },
   {
-    "position": 9,
+    "position": 10,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -99,7 +110,7 @@
     "diff": 3
   },
   {
-    "position": 10,
+    "position": 11,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
@@ -108,17 +119,6 @@
     "losses": 3,
     "points": 9,
     "diff": 3
-  },
-  {
-    "position": 11,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 5,
-    "wins": 3,
-    "losses": 2,
-    "points": 9,
-    "diff": 2
   },
   {
     "position": 12,
