@@ -136,25 +136,14 @@
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
-    "played": 5,
-    "wins": 2,
+    "played": 6,
+    "wins": 3,
     "losses": 3,
-    "points": 6,
-    "diff": -6
+    "points": 9,
+    "diff": -3
   },
   {
     "position": 14,
-    "id": 6,
-    "name": "Nightmares",
-    "logo": null,
-    "played": 5,
-    "wins": 1,
-    "losses": 4,
-    "points": 3,
-    "diff": -6
-  },
-  {
-    "position": 15,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -165,7 +154,7 @@
     "diff": -6
   },
   {
-    "position": 16,
+    "position": 15,
     "id": 10,
     "name": "ARCEUS BORN",
     "logo": null,
@@ -174,6 +163,17 @@
     "losses": 4,
     "points": 3,
     "diff": -7
+  },
+  {
+    "position": 16,
+    "id": 6,
+    "name": "Nightmares",
+    "logo": null,
+    "played": 6,
+    "wins": 1,
+    "losses": 5,
+    "points": 3,
+    "diff": -9
   },
   {
     "position": 17,
