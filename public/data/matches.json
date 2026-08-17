@@ -308,12 +308,12 @@
     "score": "3-2"
   },
   {
-    "date": 5,
-    "teamAId": 5,
-    "teamBId": 6,
-    "winnerId": 5,
-    "score": "3-2"
-  },
+  "date": 5,
+  "teamAId": 6,
+  "teamBId": 5,
+  "winnerId": 6,
+  "score": "2-3"
+},
   {
     "date": 6,
     "teamAId": 11,
