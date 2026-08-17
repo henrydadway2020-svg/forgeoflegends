@@ -1,0 +1,443 @@
+[
+  {
+    "date": 1,
+    "teamAId": 1,
+    "teamBId": 16,
+    "winnerId": 1,
+    "score": "3-2"
+  },
+  {
+    "date": 1,
+    "teamAId": 2,
+    "teamBId": 15,
+    "winnerId": 2,
+    "score": "4-1"
+  },
+  {
+    "date": 1,
+    "teamAId": 3,
+    "teamBId": 14,
+    "winnerId": 3,
+    "score": "4-1"
+  },
+  {
+    "date": 1,
+    "teamAId": 4,
+    "teamBId": 13,
+    "winnerId": 4,
+    "score": "3-1"
+  },
+  {
+    "date": 1,
+    "teamAId": 5,
+    "teamBId": 12,
+    "winnerId": 5,
+    "score": "4-1"
+  },
+  {
+    "date": 1,
+    "teamAId": 6,
+    "teamBId": 11,
+    "winnerId": 6,
+    "score": "3-2"
+  },
+  {
+    "date": 1,
+    "teamAId": 7,
+    "teamBId": 10,
+    "winnerId": 7,
+    "score": "3-2"
+  },
+  {
+    "date": 1,
+    "teamAId": 8,
+    "teamBId": 9,
+    "winnerId": 8,
+    "score": "3-2"
+  },
+  {
+    "date": 1,
+    "teamAId": 17,
+    "teamBId": 18,
+    "winnerId": 17,
+    "score": "3-0"
+  },
+  {
+    "date": 2,
+    "teamAId": 15,
+    "teamBId": 1,
+    "winnerId": 15,
+    "score": "3-1"
+  },
+  {
+    "date": 2,
+    "teamAId": 14,
+    "teamBId": 16,
+    "winnerId": 14,
+    "score": "3-0"
+  },
+  {
+    "date": 2,
+    "teamAId": 13,
+    "teamBId": 2,
+    "winnerId": 13,
+    "score": "3-2"
+  },
+  {
+    "date": 2,
+    "teamAId": 12,
+    "teamBId": 3,
+    "winnerId": 12,
+    "score": "3-0"
+  },
+  {
+    "date": 2,
+    "teamAId": 11,
+    "teamBId": 4,
+    "winnerId": 11,
+    "score": "3-2"
+  },
+  {
+    "date": 2,
+    "teamAId": 10,
+    "teamBId": 5,
+    "winnerId": 10,
+    "score": "3-2"
+  },
+  {
+    "date": 2,
+    "teamAId": 9,
+    "teamBId": 6,
+    "winnerId": 9,
+    "score": "3-2"
+  },
+  {
+    "date": 2,
+    "teamAId": 18,
+    "teamBId": 7,
+    "winnerId": 18,
+    "score": "3-2"
+  },
+  {
+    "date": 2,
+    "teamAId": 17,
+    "teamBId": 8,
+    "winnerId": 17,
+    "score": "3-1"
+  },
+  {
+    "date": 3,
+    "teamAId": 1,
+    "teamBId": 14,
+    "winnerId": 1,
+    "score": "3-2"
+  },
+  {
+    "date": 3,
+    "teamAId": 15,
+    "teamBId": 13,
+    "winnerId": 15,
+    "score": "3-1"
+  },
+  {
+    "date": 3,
+    "teamAId": 16,
+    "teamBId": 12,
+    "winnerId": 16,
+    "score": "3-1"
+  },
+  {
+    "date": 3,
+    "teamAId": 2,
+    "teamBId": 11,
+    "winnerId": 2,
+    "score": "3-1"
+  },
+  {
+    "date": 3,
+    "teamAId": 3,
+    "teamBId": 10,
+    "winnerId": 3,
+    "score": "3-1"
+  },
+  {
+    "date": 3,
+    "teamAId": 4,
+    "teamBId": 9,
+    "winnerId": 4,
+    "score": "3-2"
+  },
+  {
+    "date": 3,
+    "teamAId": 5,
+    "teamBId": 18,
+    "winnerId": 5,
+    "score": "3-1"
+  },
+  {
+    "date": 3,
+    "teamAId": 6,
+    "teamBId": 17,
+    "winnerId": 6,
+    "score": "4-0"
+  },
+  {
+    "date": 3,
+    "teamAId": 7,
+    "teamBId": 8,
+    "winnerId": 7,
+    "score": "4-1"
+  },
+  {
+    "date": 4,
+    "teamAId": 13,
+    "teamBId": 1,
+    "winnerId": 13,
+    "score": "3-2"
+  },
+  {
+    "date": 4,
+    "teamAId": 12,
+    "teamBId": 14,
+    "winnerId": 12,
+    "score": "2-1"
+  },
+  {
+    "date": 4,
+    "teamAId": 11,
+    "teamBId": 15,
+    "winnerId": 11,
+    "score": "3-2"
+  },
+  {
+    "date": 4,
+    "teamAId": 10,
+    "teamBId": 16,
+    "winnerId": 10,
+    "score": "3-2"
+  },
+  {
+    "date": 4,
+    "teamAId": 9,
+    "teamBId": 2,
+    "winnerId": 9,
+    "score": "3-2"
+  },
+  {
+    "date": 4,
+    "teamAId": 18,
+    "teamBId": 3,
+    "winnerId": 18,
+    "score": "3-0"
+  },
+  {
+    "date": 4,
+    "teamAId": 17,
+    "teamBId": 4,
+    "winnerId": 17,
+    "score": "3-0"
+  },
+  {
+    "date": 4,
+    "teamAId": 8,
+    "teamBId": 5,
+    "winnerId": 8,
+    "score": "3-2"
+  },
+  {
+    "date": 4,
+    "teamAId": 7,
+    "teamBId": 6,
+    "winnerId": 7,
+    "score": "3-2"
+  },
+  {
+    "date": 5,
+    "teamAId": 1,
+    "teamBId": 12,
+    "winnerId": 1,
+    "score": "2-1"
+  },
+  {
+    "date": 5,
+    "teamAId": 13,
+    "teamBId": 11,
+    "winnerId": 13,
+    "score": "3-2"
+  },
+  {
+    "date": 5,
+    "teamAId": 14,
+    "teamBId": 10,
+    "winnerId": 14,
+    "score": "4-0"
+  },
+  {
+    "date": 5,
+    "teamAId": 15,
+    "teamBId": 9,
+    "winnerId": 15,
+    "score": "4-0"
+  },
+  {
+    "date": 5,
+    "teamAId": 16,
+    "teamBId": 18,
+    "winnerId": 18,
+    "score": "0-4"
+  },
+  {
+    "date": 5,
+    "teamAId": 2,
+    "teamBId": 17,
+    "winnerId": 2,
+    "score": "3-1"
+  },
+  {
+    "date": 5,
+    "teamAId": 3,
+    "teamBId": 8,
+    "winnerId": 3,
+    "score": "3-2"
+  },
+  {
+    "date": 5,
+    "teamAId": 4,
+    "teamBId": 7,
+    "winnerId": 7,
+    "score": "2-3"
+  },
+  {
+    "date": 5,
+    "teamAId": 5,
+    "teamBId": 6,
+    "winnerId": 5,
+    "score": "3-2"
+  },
+  {
+    "date": 6,
+    "teamAId": 11,
+    "teamBId": 1,
+    "winnerId": 11,
+    "score": "5-0"
+  },
+  {
+    "date": 6,
+    "teamAId": 10,
+    "teamBId": 12,
+    "winnerId": 10,
+    "score": "3-2"
+  },
+  {
+    "date": 6,
+    "teamAId": 9,
+    "teamBId": 13,
+    "winnerId": 9,
+    "score": "3-2"
+  },
+  {
+    "date": 6,
+    "teamAId": 18,
+    "teamBId": 14,
+    "winnerId": 18,
+    "score": "3-1"
+  },
+  {
+    "date": 6,
+    "teamAId": 17,
+    "teamBId": 15,
+    "winnerId": 17,
+    "score": "1-0"
+  },
+  {
+    "date": 6,
+    "teamAId": 8,
+    "teamBId": 16,
+    "winnerId": 8,
+    "score": "3-2"
+  },
+  {
+    "date": 6,
+    "teamAId": 7,
+    "teamBId": 2,
+    "winnerId": 7,
+    "score": "3-2"
+  },
+  {
+    "date": 6,
+    "teamAId": 6,
+    "teamBId": 3,
+    "winnerId": 6,
+    "score": "4-1"
+  },
+  {
+    "date": 6,
+    "teamAId": 5,
+    "teamBId": 4,
+    "winnerId": 5,
+    "score": "4-1"
+  },
+  {
+    "date": 7,
+    "teamAId": 1,
+    "teamBId": 10,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 11,
+    "teamBId": 9,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 12,
+    "teamBId": 18,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 13,
+    "teamBId": 17,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 14,
+    "teamBId": 8,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 15,
+    "teamBId": 7,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 16,
+    "teamBId": 6,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 2,
+    "teamBId": 5,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 7,
+    "teamAId": 3,
+    "teamBId": 4,
+    "winnerId": null,
+    "score": null
+  }
+]
