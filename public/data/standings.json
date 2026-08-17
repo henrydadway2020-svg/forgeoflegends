@@ -45,19 +45,19 @@
   },
   {
     "position": 5,
-    "id": 12,
-    "name": "GST",
+    "id": 4,
+    "name": "EEVENGERS",
     "logo": null,
-    "played": 5,
+    "played": 6,
     "wins": 4,
-    "losses": 1,
+    "losses": 2,
     "points": 12,
-    "diff": 4
+    "diff": 3
   },
   {
     "position": 6,
-    "id": 4,
-    "name": "EEVENGERS",
+    "id": 12,
+    "name": "GST",
     "logo": null,
     "played": 6,
     "wins": 4,
@@ -144,6 +144,17 @@
   },
   {
     "position": 14,
+    "id": 10,
+    "name": "ARCEUS BORN",
+    "logo": null,
+    "played": 6,
+    "wins": 2,
+    "losses": 4,
+    "points": 6,
+    "diff": -6
+  },
+  {
+    "position": 15,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -152,17 +163,6 @@
     "losses": 4,
     "points": 3,
     "diff": -6
-  },
-  {
-    "position": 15,
-    "id": 10,
-    "name": "ARCEUS BORN",
-    "logo": null,
-    "played": 5,
-    "wins": 1,
-    "losses": 4,
-    "points": 3,
-    "diff": -7
   },
   {
     "position": 16,
