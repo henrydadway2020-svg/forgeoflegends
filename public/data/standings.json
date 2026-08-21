@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
+    "logo": null,
+    "played": 7,
+    "wins": 4,
+    "losses": 3,
+    "points": 12,
+    "diff": 6
+  },
+  {
+    "position": 3,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -20,17 +31,6 @@
     "losses": 2,
     "points": 12,
     "diff": 5
-  },
-  {
-    "position": 3,
-    "id": 7,
-    "name": "dark Raiders",
-    "logo": null,
-    "played": 6,
-    "wins": 4,
-    "losses": 2,
-    "points": 12,
-    "diff": 4
   },
   {
     "position": 4,
@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "id": 7,
+    "name": "dark Raiders",
+    "logo": null,
+    "played": 7,
+    "wins": 4,
+    "losses": 3,
+    "points": 12,
+    "diff": 1
+  },
+  {
+    "position": 6,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": -2
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 6,
     "name": "Nightmares",
     "logo": null,
@@ -66,20 +77,9 @@
     "diff": 5
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 11,
     "name": "RED LEGACY",
-    "logo": null,
-    "played": 6,
-    "wins": 3,
-    "losses": 3,
-    "points": 9,
-    "diff": 3
-  },
-  {
-    "position": 8,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
     "logo": null,
     "played": 6,
     "wins": 3,
