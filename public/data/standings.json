@@ -23,14 +23,14 @@
   },
   {
     "position": 3,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
+    "id": 9,
+    "name": "TOTODILE SQUAD",
     "logo": null,
     "played": 7,
     "wins": 4,
     "losses": 3,
     "points": 12,
-    "diff": 6
+    "diff": 4
   },
   {
     "position": 4,
@@ -133,19 +133,19 @@
   },
   {
     "position": 13,
-    "id": 4,
-    "name": "EEVENGERS",
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
     "logo": null,
     "played": 7,
     "wins": 3,
     "losses": 4,
     "points": 9,
-    "diff": -4
+    "diff": -2
   },
   {
     "position": 14,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
+    "id": 4,
+    "name": "EEVENGERS",
     "logo": null,
     "played": 7,
     "wins": 3,
