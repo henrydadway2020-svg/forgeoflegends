@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 7,
+    "wins": 5,
+    "losses": 2,
+    "points": 15,
+    "diff": 6
+  },
+  {
+    "position": 3,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -20,17 +31,6 @@
     "losses": 3,
     "points": 12,
     "diff": 6
-  },
-  {
-    "position": 3,
-    "id": 18,
-    "name": "Los Primates",
-    "logo": null,
-    "played": 6,
-    "wins": 4,
-    "losses": 2,
-    "points": 12,
-    "diff": 5
   },
   {
     "position": 4,
@@ -180,11 +180,11 @@
     "id": 12,
     "name": "GST",
     "logo": null,
-    "played": 6,
+    "played": 7,
     "wins": 2,
-    "losses": 4,
+    "losses": 5,
     "points": 6,
-    "diff": -3
+    "diff": -4
   },
   {
     "position": 18,
