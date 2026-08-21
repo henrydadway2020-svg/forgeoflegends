@@ -9,6 +9,7 @@ export default function AdminMatches() {
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState('')
   const [drafts, setDrafts] = useState({})
+  const [editingIdx, setEditingIdx] = useState(null)
 
   const teamsById = new Map(teams.map((t) => [t.id, t]))
   const teamName = (id) => teamsById.get(id)?.name || `(equipo eliminado #${id})`
@@ -48,10 +49,53 @@ export default function AdminMatches() {
     setDrafts((d) => ({ ...d, [idx]: { ...d[idx], ...patch } }))
   }
 
+  function startEdit(match) {
+    setError('')
+    setEditingIdx(match._idx)
+    setDrafts((d) => ({
+      ...d,
+      [match._idx]: { winnerId: String(match.winnerId || ''), score: match.score || '' },
+    }))
+  }
+
+  function cancelEdit(idx) {
+    setEditingIdx(null)
+    setDrafts((d) => {
+      const copy = { ...d }
+      delete copy[idx]
+      return copy
+    })
+  }
+
+  // Valida que el marcador (formato "x-y") sea consistente con el ganador elegido:
+  // el equipo con más goles en el marcador debe ser el mismo que el ganador seleccionado.
+  function validateScoreMatchesWinner(match, winnerId, score) {
+    const parts = String(score).split('-').map((n) => n.trim())
+    if (parts.length !== 2 || parts.some((p) => p === '' || Number.isNaN(Number(p)))) {
+      return 'El marcador debe tener el formato "3-1".'
+    }
+    const [a, b] = parts.map(Number)
+    if (a === b) {
+      return 'El marcador no puede ser un empate (debe haber un ganador).'
+    }
+    const expectedWinnerId = a > b ? match.teamAId : match.teamBId
+    if (Number(winnerId) !== expectedWinnerId) {
+      return `El marcador ${score} no corresponde al ganador elegido. Según ese marcador, debería ganar ${teamName(
+        expectedWinnerId
+      )}.`
+    }
+    return null
+  }
+
   async function handleSaveResult(match) {
     const draft = drafts[match._idx]
     if (!draft?.winnerId || !draft?.score) {
       setError('Elige un ganador y escribe el marcador antes de guardar.')
+      return
+    }
+    const validationError = validateScoreMatchesWinner(match, draft.winnerId, draft.score)
+    if (validationError) {
+      setError(validationError)
       return
     }
     setBusy(true)
@@ -66,6 +110,7 @@ export default function AdminMatches() {
         delete copy[match._idx]
         return copy
       })
+      setEditingIdx(null)
     } catch (err) {
       setError(err.message)
     } finally {
@@ -108,9 +153,14 @@ export default function AdminMatches() {
               <span className="eyebrow">VS</span>
               <span>{teamName(m.teamBId)}</span>
             </div>
-            {m.winnerId ? (
-              <div style={{ fontSize: 13, color: 'var(--emerald)' }}>
-                Ganador: <strong>{teamName(m.winnerId)}</strong> · Marcador {m.score}
+            {m.winnerId && editingIdx !== m._idx ? (
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
+                <div style={{ fontSize: 13, color: 'var(--emerald)' }}>
+                  Ganador: <strong>{teamName(m.winnerId)}</strong> · Marcador {m.score}
+                </div>
+                <button className="btn btn-sm" onClick={() => startEdit(m)}>
+                  ✏️ Editar
+                </button>
               </div>
             ) : (
               <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', alignItems: 'center' }}>
@@ -133,6 +183,11 @@ export default function AdminMatches() {
                 <button className="btn btn-sm btn-primary" disabled={busy} onClick={() => handleSaveResult(m)}>
                   Guardar resultado
                 </button>
+                {editingIdx === m._idx && (
+                  <button className="btn btn-sm" disabled={busy} onClick={() => cancelEdit(m._idx)}>
+                    Cancelar
+                  </button>
+                )}
               </div>
             )}
           </div>
