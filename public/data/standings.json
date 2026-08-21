@@ -100,6 +100,17 @@
   },
   {
     "position": 10,
+    "id": 14,
+    "name": "DORAGON CRO",
+    "logo": null,
+    "played": 7,
+    "wins": 3,
+    "losses": 4,
+    "points": 9,
+    "diff": 2
+  },
+  {
+    "position": 11,
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
@@ -108,17 +119,6 @@
     "losses": 3,
     "points": 9,
     "diff": -2
-  },
-  {
-    "position": 11,
-    "id": 8,
-    "name": "BRS",
-    "logo": null,
-    "played": 6,
-    "wins": 3,
-    "losses": 3,
-    "points": 9,
-    "diff": -3
   },
   {
     "position": 12,
@@ -166,14 +166,14 @@
   },
   {
     "position": 16,
-    "id": 14,
-    "name": "DORAGON CRO",
+    "id": 8,
+    "name": "BRS",
     "logo": null,
-    "played": 6,
-    "wins": 2,
+    "played": 7,
+    "wins": 3,
     "losses": 4,
-    "points": 6,
-    "diff": 0
+    "points": 9,
+    "diff": -5
   },
   {
     "position": 17,
