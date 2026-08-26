@@ -4,11 +4,11 @@
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
-    "played": 7,
-    "wins": 5,
+    "played": 8,
+    "wins": 6,
     "losses": 2,
-    "points": 15,
-    "diff": 12
+    "points": 18,
+    "diff": 13
   },
   {
     "position": 2,
@@ -177,8 +177,8 @@
   },
   {
     "position": 17,
-    "id": 6,
-    "name": "Nightmares",
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
     "logo": null,
     "played": 7,
     "wins": 1,
@@ -188,13 +188,13 @@
   },
   {
     "position": 18,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
+    "id": 6,
+    "name": "Nightmares",
     "logo": null,
-    "played": 7,
+    "played": 8,
     "wins": 1,
-    "losses": 6,
+    "losses": 7,
     "points": 3,
-    "diff": -10
+    "diff": -11
   }
 ]
