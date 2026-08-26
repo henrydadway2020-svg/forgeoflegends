@@ -48,11 +48,11 @@
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
-    "played": 7,
+    "played": 8,
     "wins": 5,
-    "losses": 2,
+    "losses": 3,
     "points": 15,
-    "diff": 0
+    "diff": -1
   },
   {
     "position": 6,
@@ -147,11 +147,11 @@
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
-    "played": 7,
-    "wins": 2,
+    "played": 8,
+    "wins": 3,
     "losses": 5,
-    "points": 6,
-    "diff": -6
+    "points": 9,
+    "diff": -5
   },
   {
     "position": 15,
