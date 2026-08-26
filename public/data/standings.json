@@ -15,11 +15,11 @@
     "id": 1,
     "name": "Eufóricos Word",
     "logo": null,
-    "played": 7,
-    "wins": 5,
+    "played": 8,
+    "wins": 6,
     "losses": 2,
-    "points": 15,
-    "diff": 9
+    "points": 18,
+    "diff": 12
   },
   {
     "position": 3,
@@ -122,23 +122,23 @@
   },
   {
     "position": 12,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
-    "logo": null,
-    "played": 7,
-    "wins": 3,
-    "losses": 4,
-    "points": 9,
-    "diff": 2
-  },
-  {
-    "position": 13,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
     "played": 7,
     "wins": 3,
     "losses": 4,
+    "points": 9,
+    "diff": -1
+  },
+  {
+    "position": 13,
+    "id": 9,
+    "name": "TOTODILE SQUAD",
+    "logo": null,
+    "played": 8,
+    "wins": 3,
+    "losses": 5,
     "points": 9,
     "diff": -1
   },
