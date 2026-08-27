@@ -26,11 +26,11 @@
     "id": 18,
     "name": "Los Primates",
     "logo": null,
-    "played": 7,
-    "wins": 5,
+    "played": 8,
+    "wins": 6,
     "losses": 2,
-    "points": 15,
-    "diff": 8
+    "points": 18,
+    "diff": 9
   },
   {
     "position": 4,
@@ -155,17 +155,6 @@
   },
   {
     "position": 15,
-    "id": 10,
-    "name": "ARCEUS BORN",
-    "logo": null,
-    "played": 7,
-    "wins": 2,
-    "losses": 5,
-    "points": 6,
-    "diff": -8
-  },
-  {
-    "position": 16,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -174,6 +163,17 @@
     "losses": 6,
     "points": 6,
     "diff": -8
+  },
+  {
+    "position": 16,
+    "id": 10,
+    "name": "ARCEUS BORN",
+    "logo": null,
+    "played": 8,
+    "wins": 2,
+    "losses": 6,
+    "points": 6,
+    "diff": -9
   },
   {
     "position": 17,
