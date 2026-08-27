@@ -56,6 +56,17 @@
   },
   {
     "position": 6,
+    "id": 4,
+    "name": "EEVENGERS",
+    "logo": null,
+    "played": 8,
+    "wins": 5,
+    "losses": 3,
+    "points": 15,
+    "diff": 3
+  },
+  {
+    "position": 7,
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
@@ -66,20 +77,9 @@
     "diff": -1
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 2,
     "name": "DARK WEEZING",
-    "logo": null,
-    "played": 7,
-    "wins": 4,
-    "losses": 3,
-    "points": 12,
-    "diff": 2
-  },
-  {
-    "position": 8,
-    "id": 4,
-    "name": "EEVENGERS",
     "logo": null,
     "played": 7,
     "wins": 4,
@@ -180,11 +180,11 @@
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
-    "played": 7,
+    "played": 8,
     "wins": 2,
-    "losses": 5,
+    "losses": 6,
     "points": 6,
-    "diff": -9
+    "diff": -10
   },
   {
     "position": 18,
