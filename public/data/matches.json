@@ -500,7 +500,7 @@
     "date": 8,
     "teamAId": 3,
     "teamBId": 2,
-    "winnerId": null,
-    "score": null
+    "winnerId": 3,
+    "score": "5-4"
   }
 ]
