@@ -1,6 +1,17 @@
 [
   {
     "position": 1,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 9,
+    "wins": 7,
+    "losses": 2,
+    "points": 21,
+    "diff": 15
+  },
+  {
+    "position": 2,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -11,26 +22,15 @@
     "diff": 13
   },
   {
-    "position": 2,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 8,
-    "wins": 6,
-    "losses": 2,
-    "points": 18,
-    "diff": 12
-  },
-  {
     "position": 3,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
-    "played": 8,
+    "played": 9,
     "wins": 6,
-    "losses": 2,
+    "losses": 3,
     "points": 18,
-    "diff": 9
+    "diff": 6
   },
   {
     "position": 4,
