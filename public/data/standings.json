@@ -23,6 +23,17 @@
   },
   {
     "position": 3,
+    "id": 5,
+    "name": "Raccoons",
+    "logo": null,
+    "played": 9,
+    "wins": 6,
+    "losses": 3,
+    "points": 18,
+    "diff": 8
+  },
+  {
+    "position": 4,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 6
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -42,17 +53,6 @@
     "losses": 3,
     "points": 18,
     "diff": 4
-  },
-  {
-    "position": 5,
-    "id": 5,
-    "name": "Raccoons",
-    "logo": null,
-    "played": 8,
-    "wins": 5,
-    "losses": 3,
-    "points": 15,
-    "diff": 7
   },
   {
     "position": 6,
@@ -114,11 +114,11 @@
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
-    "played": 8,
+    "played": 9,
     "wins": 4,
-    "losses": 4,
+    "losses": 5,
     "points": 12,
-    "diff": -1
+    "diff": -2
   },
   {
     "position": 12,
