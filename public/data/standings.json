@@ -136,11 +136,11 @@
     "id": 8,
     "name": "BRS",
     "logo": null,
-    "played": 8,
+    "played": 9,
     "wins": 4,
-    "losses": 4,
+    "losses": 5,
     "points": 12,
-    "diff": -5
+    "diff": -8
   },
   {
     "position": 14,
@@ -155,6 +155,17 @@
   },
   {
     "position": 15,
+    "id": 10,
+    "name": "ARCEUS BORN",
+    "logo": null,
+    "played": 9,
+    "wins": 3,
+    "losses": 6,
+    "points": 9,
+    "diff": -6
+  },
+  {
+    "position": 16,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -163,17 +174,6 @@
     "losses": 6,
     "points": 6,
     "diff": -8
-  },
-  {
-    "position": 16,
-    "id": 10,
-    "name": "ARCEUS BORN",
-    "logo": null,
-    "played": 8,
-    "wins": 2,
-    "losses": 6,
-    "points": 6,
-    "diff": -9
   },
   {
     "position": 17,
