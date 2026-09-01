@@ -122,6 +122,17 @@
   },
   {
     "position": 12,
+    "id": 17,
+    "name": "Palomos Team",
+    "logo": null,
+    "played": 9,
+    "wins": 4,
+    "losses": 5,
+    "points": 12,
+    "diff": -3
+  },
+  {
+    "position": 13,
     "id": 8,
     "name": "BRS",
     "logo": null,
@@ -132,26 +143,15 @@
     "diff": -5
   },
   {
-    "position": 13,
+    "position": 14,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
-    "played": 8,
+    "played": 9,
     "wins": 3,
-    "losses": 5,
+    "losses": 6,
     "points": 9,
-    "diff": -1
-  },
-  {
-    "position": 14,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 8,
-    "wins": 3,
-    "losses": 5,
-    "points": 9,
-    "diff": -5
+    "diff": -3
   },
   {
     "position": 15,
