@@ -34,6 +34,17 @@
   },
   {
     "position": 4,
+    "id": 7,
+    "name": "dark Raiders",
+    "logo": null,
+    "played": 9,
+    "wins": 6,
+    "losses": 3,
+    "points": 18,
+    "diff": 4
+  },
+  {
+    "position": 5,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 7
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -53,17 +64,6 @@
     "losses": 3,
     "points": 15,
     "diff": 6
-  },
-  {
-    "position": 6,
-    "id": 7,
-    "name": "dark Raiders",
-    "logo": null,
-    "played": 8,
-    "wins": 5,
-    "losses": 3,
-    "points": 15,
-    "diff": 3
   },
   {
     "position": 7,
@@ -81,11 +81,11 @@
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
-    "played": 8,
+    "played": 9,
     "wins": 5,
-    "losses": 3,
+    "losses": 4,
     "points": 15,
-    "diff": -1
+    "diff": -2
   },
   {
     "position": 9,
