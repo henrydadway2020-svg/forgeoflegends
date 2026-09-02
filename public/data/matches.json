@@ -563,7 +563,7 @@
     "date": 9,
     "teamAId": 16,
     "teamBId": 2,
-    "winnerId": null,
-    "score": null
+    "winnerId": 2,
+    "score": "2-3"
   }
 ]
