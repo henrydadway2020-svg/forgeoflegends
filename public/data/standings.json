@@ -4,11 +4,11 @@
     "id": 1,
     "name": "Eufóricos Word",
     "logo": null,
-    "played": 9,
+    "played": 10,
     "wins": 7,
-    "losses": 2,
+    "losses": 3,
     "points": 21,
-    "diff": 15
+    "diff": 14
   },
   {
     "position": 2,
@@ -111,6 +111,17 @@
   },
   {
     "position": 11,
+    "id": 17,
+    "name": "Palomos Team",
+    "logo": null,
+    "played": 10,
+    "wins": 5,
+    "losses": 5,
+    "points": 15,
+    "diff": -2
+  },
+  {
+    "position": 12,
     "id": 8,
     "name": "BRS",
     "logo": null,
@@ -119,17 +130,6 @@
     "losses": 5,
     "points": 15,
     "diff": -5
-  },
-  {
-    "position": 12,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 9,
-    "wins": 4,
-    "losses": 5,
-    "points": 12,
-    "diff": -3
   },
   {
     "position": 13,
