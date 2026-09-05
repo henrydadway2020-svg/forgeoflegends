@@ -570,8 +570,8 @@
     "date": 10,
     "teamAId": 17,
     "teamBId": 1,
-    "winnerId": 17,
-    "score": "3-2"
+    "winnerId": null,
+    "score": null
   },
   {
     "date": 10,
@@ -591,8 +591,8 @@
     "date": 10,
     "teamAId": 6,
     "teamBId": 10,
-    "winnerId": 10,
-    "score": "1-3"
+    "winnerId": null,
+    "score": null
   },
   {
     "date": 10,
@@ -628,5 +628,68 @@
     "teamBId": 15,
     "winnerId": 15,
     "score": "0-3"
+  },
+  {
+    "date": 11,
+    "teamAId": 1,
+    "teamBId": 8,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 17,
+    "teamBId": 7,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 18,
+    "teamBId": 6,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 9,
+    "teamBId": 5,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 10,
+    "teamBId": 4,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 11,
+    "teamBId": 3,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 12,
+    "teamBId": 2,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 13,
+    "teamBId": 16,
+    "winnerId": null,
+    "score": null
+  },
+  {
+    "date": 11,
+    "teamAId": 14,
+    "teamBId": 15,
+    "winnerId": null,
+    "score": null
   }
 ]
