@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 3,
+    "name": "LEGION ESMERALDA",
+    "logo": null,
+    "played": 10,
+    "wins": 7,
+    "losses": 3,
+    "points": 21,
+    "diff": 2
+  },
+  {
+    "position": 3,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 11
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 6
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 4,
     "name": "EEVENGERS",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 5
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 5
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -66,7 +77,7 @@
     "diff": 4
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -77,7 +88,7 @@
     "diff": 3
   },
   {
-    "position": 8,
+    "position": 9,
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
@@ -86,17 +97,6 @@
     "losses": 4,
     "points": 18,
     "diff": 1
-  },
-  {
-    "position": 9,
-    "id": 3,
-    "name": "LEGION ESMERALDA",
-    "logo": null,
-    "played": 9,
-    "wins": 6,
-    "losses": 3,
-    "points": 18,
-    "diff": 0
   },
   {
     "position": 10,
@@ -122,17 +122,6 @@
   },
   {
     "position": 12,
-    "id": 13,
-    "name": "pikatsukis",
-    "logo": null,
-    "played": 9,
-    "wins": 4,
-    "losses": 5,
-    "points": 12,
-    "diff": -2
-  },
-  {
-    "position": 13,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -141,6 +130,17 @@
     "losses": 5,
     "points": 12,
     "diff": -3
+  },
+  {
+    "position": 13,
+    "id": 13,
+    "name": "pikatsukis",
+    "logo": null,
+    "played": 10,
+    "wins": 4,
+    "losses": 6,
+    "points": 12,
+    "diff": -4
   },
   {
     "position": 14,
