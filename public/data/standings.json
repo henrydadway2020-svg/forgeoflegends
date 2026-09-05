@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 14,
+    "name": "DORAGON CRO",
+    "logo": null,
+    "played": 10,
+    "wins": 7,
+    "losses": 3,
+    "points": 21,
+    "diff": 12
+  },
+  {
+    "position": 3,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -20,17 +31,6 @@
     "losses": 3,
     "points": 21,
     "diff": 2
-  },
-  {
-    "position": 3,
-    "id": 14,
-    "name": "DORAGON CRO",
-    "logo": null,
-    "played": 9,
-    "wins": 6,
-    "losses": 3,
-    "points": 18,
-    "diff": 11
   },
   {
     "position": 4,
@@ -103,11 +103,11 @@
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
-    "played": 9,
+    "played": 10,
     "wins": 5,
-    "losses": 4,
+    "losses": 5,
     "points": 15,
-    "diff": 2
+    "diff": 1
   },
   {
     "position": 11,
