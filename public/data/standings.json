@@ -169,22 +169,22 @@
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
-    "played": 9,
-    "wins": 2,
+    "played": 10,
+    "wins": 3,
     "losses": 7,
-    "points": 6,
-    "diff": -9
+    "points": 9,
+    "diff": -6
   },
   {
     "position": 17,
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
-    "played": 9,
+    "played": 10,
     "wins": 2,
-    "losses": 7,
+    "losses": 8,
     "points": 6,
-    "diff": -11
+    "diff": -14
   },
   {
     "position": 18,
