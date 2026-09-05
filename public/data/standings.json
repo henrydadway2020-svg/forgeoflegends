@@ -45,17 +45,6 @@
   },
   {
     "position": 5,
-    "id": 18,
-    "name": "Los Primates",
-    "logo": null,
-    "played": 9,
-    "wins": 6,
-    "losses": 3,
-    "points": 18,
-    "diff": 6
-  },
-  {
-    "position": 6,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -64,6 +53,17 @@
     "losses": 3,
     "points": 18,
     "diff": 4
+  },
+  {
+    "position": 6,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 10,
+    "wins": 6,
+    "losses": 4,
+    "points": 18,
+    "diff": 3
   },
   {
     "position": 7,
@@ -111,6 +111,17 @@
   },
   {
     "position": 11,
+    "id": 8,
+    "name": "BRS",
+    "logo": null,
+    "played": 10,
+    "wins": 5,
+    "losses": 5,
+    "points": 15,
+    "diff": -5
+  },
+  {
+    "position": 12,
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
@@ -121,7 +132,7 @@
     "diff": -2
   },
   {
-    "position": 12,
+    "position": 13,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -130,17 +141,6 @@
     "losses": 5,
     "points": 12,
     "diff": -3
-  },
-  {
-    "position": 13,
-    "id": 8,
-    "name": "BRS",
-    "logo": null,
-    "played": 9,
-    "wins": 4,
-    "losses": 5,
-    "points": 12,
-    "diff": -8
   },
   {
     "position": 14,
