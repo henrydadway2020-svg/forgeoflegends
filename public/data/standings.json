@@ -111,6 +111,17 @@
   },
   {
     "position": 11,
+    "id": 13,
+    "name": "pikatsukis",
+    "logo": null,
+    "played": 11,
+    "wins": 5,
+    "losses": 6,
+    "points": 15,
+    "diff": -1
+  },
+  {
+    "position": 12,
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
@@ -121,7 +132,7 @@
     "diff": -2
   },
   {
-    "position": 12,
+    "position": 13,
     "id": 8,
     "name": "BRS",
     "logo": null,
@@ -132,20 +143,9 @@
     "diff": -5
   },
   {
-    "position": 13,
+    "position": 14,
     "id": 10,
     "name": "ARCEUS BORN",
-    "logo": null,
-    "played": 10,
-    "wins": 4,
-    "losses": 6,
-    "points": 12,
-    "diff": -4
-  },
-  {
-    "position": 14,
-    "id": 13,
-    "name": "pikatsukis",
     "logo": null,
     "played": 10,
     "wins": 4,
@@ -180,11 +180,11 @@
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
-    "played": 10,
+    "played": 11,
     "wins": 2,
-    "losses": 8,
+    "losses": 9,
     "points": 6,
-    "diff": -14
+    "diff": -17
   },
   {
     "position": 18,
