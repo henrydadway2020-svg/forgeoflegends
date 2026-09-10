@@ -1,6 +1,17 @@
 [
   {
     "position": 1,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 11,
+    "wins": 8,
+    "losses": 3,
+    "points": 24,
+    "diff": 15
+  },
+  {
+    "position": 2,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -9,17 +20,6 @@
     "losses": 3,
     "points": 24,
     "diff": 3
-  },
-  {
-    "position": 2,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 10,
-    "wins": 7,
-    "losses": 3,
-    "points": 21,
-    "diff": 14
   },
   {
     "position": 3,
@@ -136,11 +136,11 @@
     "id": 8,
     "name": "BRS",
     "logo": null,
-    "played": 10,
+    "played": 11,
     "wins": 5,
-    "losses": 5,
+    "losses": 6,
     "points": 15,
-    "diff": -5
+    "diff": -6
   },
   {
     "position": 14,
