@@ -633,8 +633,8 @@
     "date": 11,
     "teamAId": 1,
     "teamBId": 8,
-    "winnerId": null,
-    "score": null
+    "winnerId": 1,
+    "score": "2-1"
   },
   {
     "date": 11,
