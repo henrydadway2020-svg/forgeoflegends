@@ -56,6 +56,17 @@
   },
   {
     "position": 6,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 11,
+    "wins": 7,
+    "losses": 4,
+    "points": 21,
+    "diff": 4
+  },
+  {
+    "position": 7,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -66,7 +77,7 @@
     "diff": 6
   },
   {
-    "position": 7,
+    "position": 8,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -75,17 +86,6 @@
     "losses": 4,
     "points": 18,
     "diff": 5
-  },
-  {
-    "position": 8,
-    "id": 18,
-    "name": "Los Primates",
-    "logo": null,
-    "played": 10,
-    "wins": 6,
-    "losses": 4,
-    "points": 18,
-    "diff": 3
   },
   {
     "position": 9,
@@ -191,10 +191,10 @@
     "id": 6,
     "name": "Nightmares",
     "logo": null,
-    "played": 10,
+    "played": 11,
     "wins": 1,
-    "losses": 9,
+    "losses": 10,
     "points": 3,
-    "diff": -15
+    "diff": -16
   }
 ]
