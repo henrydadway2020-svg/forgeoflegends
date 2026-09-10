@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 14,
+    "name": "DORAGON CRO",
+    "logo": null,
+    "played": 11,
+    "wins": 8,
+    "losses": 3,
+    "points": 24,
+    "diff": 15
+  },
+  {
+    "position": 3,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 12
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -31,17 +42,6 @@
     "losses": 3,
     "points": 24,
     "diff": 3
-  },
-  {
-    "position": 4,
-    "id": 14,
-    "name": "DORAGON CRO",
-    "logo": null,
-    "played": 10,
-    "wins": 7,
-    "losses": 3,
-    "points": 21,
-    "diff": 12
   },
   {
     "position": 5,
@@ -155,19 +155,19 @@
   },
   {
     "position": 15,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
+    "id": 9,
+    "name": "TOTODILE SQUAD",
     "logo": null,
-    "played": 10,
+    "played": 11,
     "wins": 3,
-    "losses": 7,
+    "losses": 8,
     "points": 9,
-    "diff": -6
+    "diff": -9
   },
   {
     "position": 16,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
     "logo": null,
     "played": 11,
     "wins": 3,
