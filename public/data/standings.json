@@ -92,11 +92,11 @@
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
-    "played": 11,
-    "wins": 6,
+    "played": 12,
+    "wins": 7,
     "losses": 5,
-    "points": 18,
-    "diff": 0
+    "points": 21,
+    "diff": 3
   },
   {
     "position": 10,
@@ -191,10 +191,10 @@
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
-    "played": 11,
+    "played": 12,
     "wins": 2,
-    "losses": 9,
+    "losses": 10,
     "points": 6,
-    "diff": -17
+    "diff": -20
   }
 ]
