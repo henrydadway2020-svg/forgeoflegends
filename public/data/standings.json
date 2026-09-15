@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 3,
+    "name": "LEGION ESMERALDA",
+    "logo": null,
+    "played": 12,
+    "wins": 9,
+    "losses": 3,
+    "points": 27,
+    "diff": 8
+  },
+  {
+    "position": 3,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 15
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 1,
     "name": "Eufóricos Word",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 13
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -42,17 +53,6 @@
     "losses": 4,
     "points": 24,
     "diff": 6
-  },
-  {
-    "position": 5,
-    "id": 3,
-    "name": "LEGION ESMERALDA",
-    "logo": null,
-    "played": 11,
-    "wins": 8,
-    "losses": 3,
-    "points": 24,
-    "diff": 3
   },
   {
     "position": 6,
@@ -169,11 +169,11 @@
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
-    "played": 11,
+    "played": 12,
     "wins": 3,
-    "losses": 8,
+    "losses": 9,
     "points": 9,
-    "diff": -9
+    "diff": -14
   },
   {
     "position": 17,
