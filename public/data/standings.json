@@ -59,11 +59,11 @@
     "id": 12,
     "name": "GST",
     "logo": null,
-    "played": 11,
+    "played": 12,
     "wins": 7,
-    "losses": 4,
+    "losses": 5,
     "points": 21,
-    "diff": 7
+    "diff": 6
   },
   {
     "position": 7,
@@ -155,19 +155,19 @@
   },
   {
     "position": 15,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
     "logo": null,
-    "played": 11,
-    "wins": 3,
+    "played": 12,
+    "wins": 4,
     "losses": 8,
-    "points": 9,
-    "diff": -9
+    "points": 12,
+    "diff": -8
   },
   {
     "position": 16,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
+    "id": 9,
+    "name": "TOTODILE SQUAD",
     "logo": null,
     "played": 11,
     "wins": 3,
