@@ -1,14 +1,14 @@
 [
   {
     "position": 1,
-    "id": 1,
-    "name": "Eufóricos Word",
+    "id": 7,
+    "name": "dark Raiders",
     "logo": null,
-    "played": 11,
-    "wins": 8,
+    "played": 12,
+    "wins": 9,
     "losses": 3,
-    "points": 24,
-    "diff": 15
+    "points": 27,
+    "diff": 14
   },
   {
     "position": 2,
@@ -23,14 +23,14 @@
   },
   {
     "position": 3,
-    "id": 7,
-    "name": "dark Raiders",
+    "id": 1,
+    "name": "Eufóricos Word",
     "logo": null,
-    "played": 11,
+    "played": 12,
     "wins": 8,
-    "losses": 3,
+    "losses": 4,
     "points": 24,
-    "diff": 12
+    "diff": 13
   },
   {
     "position": 4,
