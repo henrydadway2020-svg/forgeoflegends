@@ -147,11 +147,11 @@
     "id": 8,
     "name": "BRS",
     "logo": null,
-    "played": 11,
+    "played": 12,
     "wins": 5,
-    "losses": 6,
+    "losses": 7,
     "points": 15,
-    "diff": -6
+    "diff": -9
   },
   {
     "position": 15,
@@ -177,6 +177,17 @@
   },
   {
     "position": 17,
+    "id": 6,
+    "name": "Nightmares",
+    "logo": null,
+    "played": 12,
+    "wins": 2,
+    "losses": 10,
+    "points": 6,
+    "diff": -13
+  },
+  {
+    "position": 18,
     "id": 16,
     "name": "Pikablinder",
     "logo": null,
@@ -185,16 +196,5 @@
     "losses": 9,
     "points": 6,
     "diff": -17
-  },
-  {
-    "position": 18,
-    "id": 6,
-    "name": "Nightmares",
-    "logo": null,
-    "played": 11,
-    "wins": 1,
-    "losses": 10,
-    "points": 3,
-    "diff": -16
   }
 ]
