@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "id": 5,
+    "name": "Raccoons",
+    "logo": null,
+    "played": 12,
+    "wins": 8,
+    "losses": 4,
+    "points": 24,
+    "diff": 8
+  },
+  {
+    "position": 6,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 6
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -64,17 +75,6 @@
     "losses": 5,
     "points": 21,
     "diff": 6
-  },
-  {
-    "position": 7,
-    "id": 5,
-    "name": "Raccoons",
-    "logo": null,
-    "played": 12,
-    "wins": 7,
-    "losses": 5,
-    "points": 21,
-    "diff": 5
   },
   {
     "position": 8,
@@ -111,17 +111,6 @@
   },
   {
     "position": 11,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 12,
-    "wins": 6,
-    "losses": 6,
-    "points": 18,
-    "diff": -4
-  },
-  {
-    "position": 12,
     "id": 10,
     "name": "ARCEUS BORN",
     "logo": null,
@@ -132,7 +121,7 @@
     "diff": -2
   },
   {
-    "position": 13,
+    "position": 12,
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
@@ -141,6 +130,17 @@
     "losses": 7,
     "points": 15,
     "diff": -3
+  },
+  {
+    "position": 13,
+    "id": 17,
+    "name": "Palomos Team",
+    "logo": null,
+    "played": 12,
+    "wins": 5,
+    "losses": 7,
+    "points": 15,
+    "diff": -7
   },
   {
     "position": 14,
