@@ -1,6 +1,17 @@
 [
   {
     "position": 1,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 13,
+    "wins": 9,
+    "losses": 4,
+    "points": 27,
+    "diff": 14
+  },
+  {
+    "position": 2,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -11,7 +22,7 @@
     "diff": 14
   },
   {
-    "position": 2,
+    "position": 3,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 14
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -31,17 +42,6 @@
     "losses": 3,
     "points": 27,
     "diff": 8
-  },
-  {
-    "position": 4,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 12,
-    "wins": 8,
-    "losses": 4,
-    "points": 24,
-    "diff": 13
   },
   {
     "position": 5,
@@ -180,11 +180,11 @@
     "id": 6,
     "name": "Nightmares",
     "logo": null,
-    "played": 12,
+    "played": 13,
     "wins": 2,
-    "losses": 10,
+    "losses": 11,
     "points": 6,
-    "diff": -13
+    "diff": -14
   },
   {
     "position": 18,
