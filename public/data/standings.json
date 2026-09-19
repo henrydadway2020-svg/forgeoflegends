@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "id": 12,
+    "name": "GST",
+    "logo": null,
+    "played": 13,
+    "wins": 8,
+    "losses": 5,
+    "points": 24,
+    "diff": 11
+  },
+  {
+    "position": 6,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 8
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -63,17 +74,6 @@
     "wins": 8,
     "losses": 4,
     "points": 24,
-    "diff": 6
-  },
-  {
-    "position": 7,
-    "id": 12,
-    "name": "GST",
-    "logo": null,
-    "played": 12,
-    "wins": 7,
-    "losses": 5,
-    "points": 21,
     "diff": 6
   },
   {
@@ -103,11 +103,11 @@
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
-    "played": 12,
+    "played": 13,
     "wins": 6,
-    "losses": 6,
+    "losses": 7,
     "points": 18,
-    "diff": 1
+    "diff": -4
   },
   {
     "position": 11,
