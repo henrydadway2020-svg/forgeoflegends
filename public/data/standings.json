@@ -34,6 +34,17 @@
   },
   {
     "position": 4,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 13,
+    "wins": 9,
+    "losses": 4,
+    "points": 27,
+    "diff": 9
+  },
+  {
+    "position": 5,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 8
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 11
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -64,17 +75,6 @@
     "losses": 4,
     "points": 24,
     "diff": 8
-  },
-  {
-    "position": 7,
-    "id": 18,
-    "name": "Los Primates",
-    "logo": null,
-    "played": 12,
-    "wins": 8,
-    "losses": 4,
-    "points": 24,
-    "diff": 6
   },
   {
     "position": 8,
@@ -125,11 +125,11 @@
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
-    "played": 12,
+    "played": 13,
     "wins": 5,
-    "losses": 7,
+    "losses": 8,
     "points": 15,
-    "diff": -3
+    "diff": -6
   },
   {
     "position": 13,
