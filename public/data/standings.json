@@ -59,11 +59,11 @@
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
-    "played": 12,
+    "played": 13,
     "wins": 9,
-    "losses": 3,
+    "losses": 4,
     "points": 27,
-    "diff": 8
+    "diff": 4
   },
   {
     "position": 7,
@@ -111,6 +111,17 @@
   },
   {
     "position": 11,
+    "id": 17,
+    "name": "Palomos Team",
+    "logo": null,
+    "played": 13,
+    "wins": 6,
+    "losses": 7,
+    "points": 18,
+    "diff": -3
+  },
+  {
+    "position": 12,
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
@@ -121,7 +132,7 @@
     "diff": -4
   },
   {
-    "position": 12,
+    "position": 13,
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
@@ -130,17 +141,6 @@
     "losses": 8,
     "points": 15,
     "diff": -6
-  },
-  {
-    "position": 13,
-    "id": 17,
-    "name": "Palomos Team",
-    "logo": null,
-    "played": 12,
-    "wins": 5,
-    "losses": 7,
-    "points": 15,
-    "diff": -7
   },
   {
     "position": 14,
