@@ -878,7 +878,7 @@
     "date": 14,
     "teamAId": 12,
     "teamBId": 11,
-    "winnerId": null,
-    "score": null
+    "winnerId": 12,
+    "score": "10-4"
   }
 ]
