@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 12,
+    "name": "GST",
+    "logo": null,
+    "played": 14,
+    "wins": 9,
+    "losses": 5,
+    "points": 27,
+    "diff": 17
+  },
+  {
+    "position": 3,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 14
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 13
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 18,
     "name": "Los Primates",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 9
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
@@ -55,7 +66,7 @@
     "diff": 4
   },
   {
-    "position": 6,
+    "position": 7,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -64,17 +75,6 @@
     "losses": 5,
     "points": 27,
     "diff": 3
-  },
-  {
-    "position": 7,
-    "id": 12,
-    "name": "GST",
-    "logo": null,
-    "played": 13,
-    "wins": 8,
-    "losses": 5,
-    "points": 24,
-    "diff": 11
   },
   {
     "position": 8,
@@ -92,11 +92,11 @@
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
-    "played": 13,
+    "played": 14,
     "wins": 7,
-    "losses": 6,
+    "losses": 7,
     "points": 21,
-    "diff": 2
+    "diff": -4
   },
   {
     "position": 10,
