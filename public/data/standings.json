@@ -133,25 +133,25 @@
   },
   {
     "position": 13,
-    "id": 2,
-    "name": "DARK WEEZING",
-    "logo": null,
-    "played": 13,
-    "wins": 5,
-    "losses": 8,
-    "points": 15,
-    "diff": -6
-  },
-  {
-    "position": 14,
     "id": 8,
     "name": "BRS",
     "logo": null,
-    "played": 13,
-    "wins": 5,
+    "played": 14,
+    "wins": 6,
     "losses": 8,
+    "points": 18,
+    "diff": -10
+  },
+  {
+    "position": 14,
+    "id": 2,
+    "name": "DARK WEEZING",
+    "logo": null,
+    "played": 14,
+    "wins": 5,
+    "losses": 9,
     "points": 15,
-    "diff": -13
+    "diff": -9
   },
   {
     "position": 15,
