@@ -59,11 +59,11 @@
     "id": 18,
     "name": "Los Primates",
     "logo": null,
-    "played": 13,
+    "played": 14,
     "wins": 9,
-    "losses": 4,
+    "losses": 5,
     "points": 27,
-    "diff": 9
+    "diff": 7
   },
   {
     "position": 7,
@@ -155,23 +155,23 @@
   },
   {
     "position": 15,
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
+    "logo": null,
+    "played": 14,
+    "wins": 5,
+    "losses": 9,
+    "points": 15,
+    "diff": -10
+  },
+  {
+    "position": 16,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
     "played": 14,
     "wins": 4,
     "losses": 10,
-    "points": 12,
-    "diff": -12
-  },
-  {
-    "position": 16,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
-    "logo": null,
-    "played": 13,
-    "wins": 4,
-    "losses": 9,
     "points": 12,
     "diff": -12
   },
