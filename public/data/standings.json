@@ -45,6 +45,17 @@
   },
   {
     "position": 5,
+    "id": 5,
+    "name": "Raccoons",
+    "logo": null,
+    "played": 15,
+    "wins": 10,
+    "losses": 5,
+    "points": 30,
+    "diff": 8
+  },
+  {
+    "position": 6,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -53,17 +64,6 @@
     "losses": 5,
     "points": 27,
     "diff": 17
-  },
-  {
-    "position": 6,
-    "id": 5,
-    "name": "Raccoons",
-    "logo": null,
-    "played": 14,
-    "wins": 9,
-    "losses": 5,
-    "points": 27,
-    "diff": 3
   },
   {
     "position": 7,
@@ -81,11 +81,11 @@
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
-    "played": 14,
+    "played": 15,
     "wins": 9,
-    "losses": 5,
+    "losses": 6,
     "points": 27,
-    "diff": 2
+    "diff": -3
   },
   {
     "position": 9,
