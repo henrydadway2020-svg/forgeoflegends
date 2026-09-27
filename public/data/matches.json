@@ -913,8 +913,8 @@
     "date": 15,
     "teamAId": 8,
     "teamBId": 15,
-    "winnerId": null,
-    "score": null
+    "winnerId": 15,
+    "score": "3-6"
   },
   {
     "date": 15,
