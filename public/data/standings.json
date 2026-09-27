@@ -59,11 +59,11 @@
     "id": 12,
     "name": "GST",
     "logo": null,
-    "played": 14,
+    "played": 15,
     "wins": 9,
-    "losses": 5,
+    "losses": 6,
     "points": 27,
-    "diff": 17
+    "diff": 15
   },
   {
     "position": 7,
@@ -155,6 +155,17 @@
   },
   {
     "position": 15,
+    "id": 9,
+    "name": "TOTODILE SQUAD",
+    "logo": null,
+    "played": 15,
+    "wins": 5,
+    "losses": 10,
+    "points": 15,
+    "diff": -10
+  },
+  {
+    "position": 16,
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
@@ -163,17 +174,6 @@
     "losses": 10,
     "points": 15,
     "diff": -14
-  },
-  {
-    "position": 16,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
-    "logo": null,
-    "played": 14,
-    "wins": 4,
-    "losses": 10,
-    "points": 12,
-    "diff": -12
   },
   {
     "position": 17,
