@@ -144,17 +144,6 @@
   },
   {
     "position": 14,
-    "id": 2,
-    "name": "DARK WEEZING",
-    "logo": null,
-    "played": 14,
-    "wins": 5,
-    "losses": 9,
-    "points": 15,
-    "diff": -9
-  },
-  {
-    "position": 15,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -163,6 +152,17 @@
     "losses": 9,
     "points": 15,
     "diff": -10
+  },
+  {
+    "position": 15,
+    "id": 2,
+    "name": "DARK WEEZING",
+    "logo": null,
+    "played": 15,
+    "wins": 5,
+    "losses": 10,
+    "points": 15,
+    "diff": -14
   },
   {
     "position": 16,
@@ -180,11 +180,11 @@
     "id": 6,
     "name": "Nightmares",
     "logo": null,
-    "played": 14,
-    "wins": 2,
+    "played": 15,
+    "wins": 3,
     "losses": 12,
-    "points": 6,
-    "diff": -21
+    "points": 9,
+    "diff": -16
   },
   {
     "position": 18,
