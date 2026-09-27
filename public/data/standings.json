@@ -122,14 +122,14 @@
   },
   {
     "position": 12,
-    "id": 8,
-    "name": "BRS",
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
     "logo": null,
-    "played": 14,
+    "played": 15,
     "wins": 6,
-    "losses": 8,
+    "losses": 9,
     "points": 18,
-    "diff": -10
+    "diff": -7
   },
   {
     "position": 13,
@@ -144,14 +144,14 @@
   },
   {
     "position": 14,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
+    "id": 8,
+    "name": "BRS",
     "logo": null,
-    "played": 14,
-    "wins": 5,
+    "played": 15,
+    "wins": 6,
     "losses": 9,
-    "points": 15,
-    "diff": -10
+    "points": 18,
+    "diff": -13
   },
   {
     "position": 15,
