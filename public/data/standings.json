@@ -1,17 +1,28 @@
 [
   {
     "position": 1,
-    "id": 1,
-    "name": "Eufóricos Word",
+    "id": 4,
+    "name": "EEVENGERS",
     "logo": null,
-    "played": 14,
+    "played": 15,
     "wins": 10,
-    "losses": 4,
+    "losses": 5,
     "points": 30,
-    "diff": 20
+    "diff": 19
   },
   {
     "position": 2,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 15,
+    "wins": 10,
+    "losses": 5,
+    "points": 30,
+    "diff": 16
+  },
+  {
+    "position": 3,
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
@@ -22,7 +33,7 @@
     "diff": 15
   },
   {
-    "position": 3,
+    "position": 4,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 15
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -42,17 +53,6 @@
     "losses": 5,
     "points": 27,
     "diff": 17
-  },
-  {
-    "position": 5,
-    "id": 4,
-    "name": "EEVENGERS",
-    "logo": null,
-    "played": 14,
-    "wins": 9,
-    "losses": 5,
-    "points": 27,
-    "diff": 15
   },
   {
     "position": 6,
