@@ -207,7 +207,7 @@
     ],
     "note": "",
     "lastChampion": "",
-    "status": "active"
+    "status": "blocked"
   },
   {
     "id": 17,
@@ -220,6 +220,6 @@
     ],
     "note": "",
     "lastChampion": "",
-    "status": "blocked"
+    "status": "active"
   }
 ]
