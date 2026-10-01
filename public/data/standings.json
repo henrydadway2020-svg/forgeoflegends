@@ -56,6 +56,17 @@
   },
   {
     "position": 6,
+    "id": 18,
+    "name": "Los Primates",
+    "logo": null,
+    "played": 16,
+    "wins": 10,
+    "losses": 6,
+    "points": 30,
+    "diff": 9
+  },
+  {
+    "position": 7,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -64,17 +75,6 @@
     "losses": 5,
     "points": 30,
     "diff": 8
-  },
-  {
-    "position": 7,
-    "id": 18,
-    "name": "Los Primates",
-    "logo": null,
-    "played": 15,
-    "wins": 9,
-    "losses": 6,
-    "points": 27,
-    "diff": 3
   },
   {
     "position": 8,
@@ -92,11 +92,11 @@
     "id": 11,
     "name": "RED LEGACY",
     "logo": null,
-    "played": 15,
+    "played": 16,
     "wins": 8,
-    "losses": 7,
+    "losses": 8,
     "points": 24,
-    "diff": 8
+    "diff": 2
   },
   {
     "position": 10,
