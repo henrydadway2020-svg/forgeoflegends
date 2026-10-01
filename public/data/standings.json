@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 4,
+    "name": "EEVENGERS",
+    "logo": null,
+    "played": 16,
+    "wins": 11,
+    "losses": 5,
+    "points": 33,
+    "diff": 22
+  },
+  {
+    "position": 3,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -20,17 +31,6 @@
     "losses": 5,
     "points": 33,
     "diff": 15
-  },
-  {
-    "position": 3,
-    "id": 4,
-    "name": "EEVENGERS",
-    "logo": null,
-    "played": 15,
-    "wins": 10,
-    "losses": 5,
-    "points": 30,
-    "diff": 19
   },
   {
     "position": 4,
@@ -169,11 +169,11 @@
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
-    "played": 15,
+    "played": 16,
     "wins": 5,
-    "losses": 10,
+    "losses": 11,
     "points": 15,
-    "diff": -14
+    "diff": -17
   },
   {
     "position": 17,
