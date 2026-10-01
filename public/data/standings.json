@@ -122,6 +122,17 @@
   },
   {
     "position": 12,
+    "id": 9,
+    "name": "TOTODILE SQUAD",
+    "logo": null,
+    "played": 16,
+    "wins": 6,
+    "losses": 10,
+    "points": 18,
+    "diff": -3
+  },
+  {
+    "position": 13,
     "id": 15,
     "name": "SQUIRTLE SQUAD",
     "logo": null,
@@ -130,17 +141,6 @@
     "losses": 9,
     "points": 18,
     "diff": -7
-  },
-  {
-    "position": 13,
-    "id": 10,
-    "name": "ARCEUS BORN",
-    "logo": null,
-    "played": 15,
-    "wins": 6,
-    "losses": 9,
-    "points": 18,
-    "diff": -12
   },
   {
     "position": 14,
@@ -155,14 +155,14 @@
   },
   {
     "position": 15,
-    "id": 9,
-    "name": "TOTODILE SQUAD",
+    "id": 10,
+    "name": "ARCEUS BORN",
     "logo": null,
-    "played": 15,
-    "wins": 5,
+    "played": 16,
+    "wins": 6,
     "losses": 10,
-    "points": 15,
-    "diff": -10
+    "points": 18,
+    "diff": -19
   },
   {
     "position": 16,
