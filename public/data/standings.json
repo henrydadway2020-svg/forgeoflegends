@@ -4,11 +4,11 @@
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
-    "played": 15,
-    "wins": 11,
+    "played": 16,
+    "wins": 12,
     "losses": 4,
-    "points": 33,
-    "diff": 27
+    "points": 36,
+    "diff": 28
   },
   {
     "position": 2,
@@ -37,11 +37,11 @@
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
-    "played": 15,
+    "played": 16,
     "wins": 10,
-    "losses": 5,
+    "losses": 6,
     "points": 30,
-    "diff": 13
+    "diff": 12
   },
   {
     "position": 5,
