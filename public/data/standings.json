@@ -122,6 +122,17 @@
   },
   {
     "position": 12,
+    "id": 15,
+    "name": "SQUIRTLE SQUAD",
+    "logo": null,
+    "played": 16,
+    "wins": 7,
+    "losses": 9,
+    "points": 21,
+    "diff": -2
+  },
+  {
+    "position": 13,
     "id": 9,
     "name": "TOTODILE SQUAD",
     "logo": null,
@@ -130,17 +141,6 @@
     "losses": 10,
     "points": 18,
     "diff": -3
-  },
-  {
-    "position": 13,
-    "id": 15,
-    "name": "SQUIRTLE SQUAD",
-    "logo": null,
-    "played": 15,
-    "wins": 6,
-    "losses": 9,
-    "points": 18,
-    "diff": -7
   },
   {
     "position": 14,
@@ -180,11 +180,11 @@
     "id": 6,
     "name": "Nightmares",
     "logo": null,
-    "played": 15,
+    "played": 16,
     "wins": 3,
-    "losses": 12,
+    "losses": 13,
     "points": 9,
-    "diff": -16
+    "diff": -21
   },
   {
     "position": 18,
