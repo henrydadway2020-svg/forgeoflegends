@@ -23,6 +23,17 @@
   },
   {
     "position": 3,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 16,
+    "wins": 11,
+    "losses": 5,
+    "points": 33,
+    "diff": 19
+  },
+  {
+    "position": 4,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 15
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 12,
     "name": "GST",
     "logo": null,
@@ -42,17 +53,6 @@
     "losses": 6,
     "points": 30,
     "diff": 19
-  },
-  {
-    "position": 5,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 15,
-    "wins": 10,
-    "losses": 5,
-    "points": 30,
-    "diff": 16
   },
   {
     "position": 6,
@@ -81,11 +81,11 @@
     "id": 3,
     "name": "LEGION ESMERALDA",
     "logo": null,
-    "played": 15,
+    "played": 16,
     "wins": 9,
-    "losses": 6,
+    "losses": 7,
     "points": 27,
-    "diff": -3
+    "diff": -6
   },
   {
     "position": 9,
