@@ -23,6 +23,17 @@
   },
   {
     "position": 3,
+    "id": 12,
+    "name": "GST",
+    "logo": null,
+    "played": 16,
+    "wins": 10,
+    "losses": 6,
+    "points": 30,
+    "diff": 19
+  },
+  {
+    "position": 4,
     "id": 1,
     "name": "Eufóricos Word",
     "logo": null,
@@ -33,7 +44,7 @@
     "diff": 16
   },
   {
-    "position": 4,
+    "position": 5,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
@@ -44,7 +55,7 @@
     "diff": 12
   },
   {
-    "position": 5,
+    "position": 6,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -53,17 +64,6 @@
     "losses": 5,
     "points": 30,
     "diff": 8
-  },
-  {
-    "position": 6,
-    "id": 12,
-    "name": "GST",
-    "logo": null,
-    "played": 15,
-    "wins": 9,
-    "losses": 6,
-    "points": 27,
-    "diff": 15
   },
   {
     "position": 7,
@@ -114,11 +114,11 @@
     "id": 17,
     "name": "Palomos Team",
     "logo": null,
-    "played": 15,
+    "played": 16,
     "wins": 8,
-    "losses": 7,
+    "losses": 8,
     "points": 24,
-    "diff": 2
+    "diff": -2
   },
   {
     "position": 12,
