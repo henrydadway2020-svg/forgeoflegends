@@ -12,6 +12,17 @@
   },
   {
     "position": 2,
+    "id": 1,
+    "name": "Eufóricos Word",
+    "logo": null,
+    "played": 17,
+    "wins": 12,
+    "losses": 5,
+    "points": 36,
+    "diff": 22
+  },
+  {
+    "position": 3,
     "id": 4,
     "name": "EEVENGERS",
     "logo": null,
@@ -20,17 +31,6 @@
     "losses": 5,
     "points": 33,
     "diff": 22
-  },
-  {
-    "position": 3,
-    "id": 1,
-    "name": "Eufóricos Word",
-    "logo": null,
-    "played": 16,
-    "wins": 11,
-    "losses": 5,
-    "points": 33,
-    "diff": 19
   },
   {
     "position": 4,
@@ -169,11 +169,11 @@
     "id": 2,
     "name": "DARK WEEZING",
     "logo": null,
-    "played": 16,
+    "played": 17,
     "wins": 5,
-    "losses": 11,
+    "losses": 12,
     "points": 15,
-    "diff": -17
+    "diff": -20
   },
   {
     "position": 17,
