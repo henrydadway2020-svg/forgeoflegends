@@ -81,11 +81,11 @@
     "id": 13,
     "name": "pikatsukis",
     "logo": null,
-    "played": 16,
-    "wins": 9,
+    "played": 17,
+    "wins": 10,
     "losses": 7,
-    "points": 27,
-    "diff": 3
+    "points": 30,
+    "diff": 5
   },
   {
     "position": 9,
@@ -180,11 +180,11 @@
     "id": 6,
     "name": "Nightmares",
     "logo": null,
-    "played": 16,
+    "played": 17,
     "wins": 3,
-    "losses": 13,
+    "losses": 14,
     "points": 9,
-    "diff": -21
+    "diff": -23
   },
   {
     "position": 18,
