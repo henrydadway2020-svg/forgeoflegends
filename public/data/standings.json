@@ -4,11 +4,11 @@
     "id": 7,
     "name": "dark Raiders",
     "logo": null,
-    "played": 16,
+    "played": 17,
     "wins": 12,
-    "losses": 4,
+    "losses": 5,
     "points": 36,
-    "diff": 28
+    "diff": 26
   },
   {
     "position": 2,
@@ -34,6 +34,17 @@
   },
   {
     "position": 4,
+    "id": 12,
+    "name": "GST",
+    "logo": null,
+    "played": 17,
+    "wins": 11,
+    "losses": 6,
+    "points": 33,
+    "diff": 21
+  },
+  {
+    "position": 5,
     "id": 5,
     "name": "Raccoons",
     "logo": null,
@@ -42,17 +53,6 @@
     "losses": 5,
     "points": 33,
     "diff": 15
-  },
-  {
-    "position": 5,
-    "id": 12,
-    "name": "GST",
-    "logo": null,
-    "played": 16,
-    "wins": 10,
-    "losses": 6,
-    "points": 30,
-    "diff": 19
   },
   {
     "position": 6,
