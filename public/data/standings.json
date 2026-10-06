@@ -96,7 +96,7 @@
     "wins": 10,
     "losses": 7,
     "points": 30,
-    "diff": 0
+    "diff": 1
   },
   {
     "position": 10,
@@ -162,7 +162,7 @@
     "wins": 6,
     "losses": 11,
     "points": 18,
-    "diff": -24
+    "diff": -25
   },
   {
     "position": 16,
