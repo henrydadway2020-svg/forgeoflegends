@@ -45,25 +45,25 @@
   },
   {
     "position": 5,
-    "id": 5,
-    "name": "Raccoons",
-    "logo": null,
-    "played": 16,
-    "wins": 11,
-    "losses": 5,
-    "points": 33,
-    "diff": 15
-  },
-  {
-    "position": 6,
     "id": 14,
     "name": "DORAGON CRO",
     "logo": null,
-    "played": 16,
-    "wins": 10,
+    "played": 17,
+    "wins": 11,
     "losses": 6,
-    "points": 30,
-    "diff": 12
+    "points": 33,
+    "diff": 14
+  },
+  {
+    "position": 6,
+    "id": 5,
+    "name": "Raccoons",
+    "logo": null,
+    "played": 17,
+    "wins": 11,
+    "losses": 6,
+    "points": 33,
+    "diff": 13
   },
   {
     "position": 7,
